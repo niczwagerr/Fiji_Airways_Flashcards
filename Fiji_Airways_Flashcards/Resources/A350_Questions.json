@@ -1,0 +1,4490 @@
+[
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "All pack valves of both packs are automatically closed",
+    "answer": "When Ditching P/B is set to ON, or during any engine start and the cross bleed valve is open, or the FIRE pb-sw of any engine is pressed, and the crossbleed valve is opened.",
+    "wrong_answers": [
+      "When the ditching P/B switch is set to ON or during engine start and all doors closed except L1 door",
+      "During engine start and on the ground, they will remain closed for 2 minutes",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "In case of Air Cycle Machine (ACM) failure",
+    "answer": "Below FL 220, the pack must be selected OFF",
+    "wrong_answers": [
+      "Below FL 220  the pack must stay On to avoid ice accumulation\n",
+      "Below FL 220  the pack can be used but pack performance is degraded",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "When RAM AIR P/B is selected ON",
+    "answer": "With ditching P/B is in the normal position and differential pressure less than 2 psi, each outflow valve will open to approximately 50%",
+    "wrong_answers": [
+      "The outflow valves will open 50%, when differential pressure drops to less than 2 psi, regardless of ditching P/B position",
+      "The outflow valves will open 20%, when differential pressure drops to less than 2 psi, regardless of ditching P/B position",
+      "The outflow valves will open 20%, when differential pressure drops to less than 2 psi, regardless of ditching P/B position"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "To reach a stabilized temperature in the cabin",
+    "answer": "Air conditioning requires approximately 20 minutes, 10 minutes for cabin temperature adjustment and 10 minutes to compensate heat dissipation from the cabin system",
+    "wrong_answers": [
+      "Air conditioning requires approximately 20 minutes, 5 minutes for cabin temperature adjustment and 15 minutes to compensate heat dissipation from the cabin system",
+      "Air conditioning requires approximately 20 minutes, 5 minutes for cabin temperature adjustment and 15 minutes to compensate heat dissipation from the cabin system",
+      "Air conditioning requires approximately 20 minutes, 5 minutes for cabin temperature adjustment and 15 minutes to compensate heat dissipation from the cabin system"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "With the air flow selector in NORM",
+    "answer": "If one pack operation only, or when the APU is running and APU bleed switch is ON, the pack control automatically adjust the airflow to HI demand (regardless of selector position)",
+    "wrong_answers": [
+      "The pack controller stays in HI demand only on the ground with two engines running",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "In manual mode, with the Air FLOW selected in MAN position",
+    "answer": "The pack Air FLOW switches to a default value based on full passengers capacity",
+    "wrong_answers": [
+      "The cabin and cockpit Airflow is automatically controlled based on the number of passengers entered on the MFD",
+      "The cargo temperature regulation is directly base on the selector position",
+      "The airflow controlled by existing Aircraft flight level"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "What happens when a pack operates in degraded mode",
+    "answer": "In case of an ACM failure, only heat exchanger is used to cool the air from the bleed system",
+    "wrong_answers": [
+      "When the pilot selects MANUAL position by the Airflow selector on the overhead panel",
+      "When the flow downstream the pack control valve drops below predetermined value",
+      "Above FL200"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "In automatic mode, with Air Flow selector in NORM position",
+    "answer": "The airflow in the cabin/cockpit is automatically controlled, depending on the number of passengers entered on the MFD, the aircraft flight level, and the temperature selected for the forward cargo compartment on the CARGO AIR COND panel.",
+    "wrong_answers": [
+      "The Cargo temperature regulation is directly based on selector position",
+      "The airflow controlled by existing Aircraft flight level",
+      "The cabin and cockpit Airflow is automatically controlled based on the number of passengers entered in the MFD"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "Each pack has two pack valves",
+    "answer": "They are automatically controlled by the pack controller and regulate the quantity of hot bleed air that flows to each pack.",
+    "wrong_answers": [
+      "They are automatically controlled and regulate the temperature of hot bleed",
+      "They are manually controlled by pilots and regulate the temperature of hot bleed",
+      "They are manually controlled and regulate both quantity and temperature of hot bleed air at all times"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "RAM air P/B Switch activates the emergency RAM air",
+    "answer": "By opening the RAM air inlet on the belly fairing only if the differential pressure is less that 2 PSI",
+    "wrong_answers": [
+      "By opening the RAM air inlet on the belly fairing and only differential pressure is less that 1 PSI",
+      "Automatically closes the RAM air inlet when differential pressure exceeds 2 PSI",
+      "By opening the RAM air inlet under the avionic compartment and the pressure is less that 2 PSI"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "AIR PACK BAY 1+2 VENT FAULT is trigger when",
+    "answer": "Both blowing fans associated to the pack bay ventilation are failed",
+    "wrong_answers": [
+      "The manual control of the cross bleed valve is lost",
+      "The cross bleed valve is abnormally open",
+      "The ram air inlet or outlet is jammed in closed position"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "The temperature control valve (TCV) adjust the pack outlet temperature",
+    "answer": "Below FL 220 it will prevent Ice accumulation",
+    "wrong_answers": [
+      "Below FL 220 to support the pack valve with higher pressure",
+      "Above FL 220 it will prevent Ice formation",
+      "Above FL 220 it modulates the bleed quantity only"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "When would the RAM AIR INLET open",
+    "answer": "The Ram Air Inlet opens, only if the differential pressure is below 2 PSI",
+    "wrong_answers": [
+      "The Ram Air Inlet opens, only if the differential pressure is below 4 PSI",
+      "The Ram Air Inlet opens, only if the differential pressure is above 2 PSI",
+      "The Ram Air Inlet opens, only if the differential pressure is below 3 PSI"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": false,
+    "question": "What is the temperature selection range on the CABIN selector on the AIR panel",
+    "answer": "18 - 30 degrees C",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": false,
+    "question": "Can the associated pack still be used in case the CM fails",
+    "answer": "Yes, if above FL 220 and pack is not overheated but pack performance is degraded.",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": false,
+    "question": "What is the Supplemental Cooling System",
+    "answer": "It is a fully electrical system which supplies cooling to the galleys.",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "What happens in the event of an ACM failure",
+    "answer": "Bleed air is cooled by the heat exchangers only, the pack operates in bypass mode ",
+    "wrong_answers": [
+      "The associated active pack valve automatically closes ",
+      "Bleed air bypasses the associated pack and is cooled by the mixer unit ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "What is the airflow when the AIR FLOW SEL is in the NORM position",
+    "answer": "Automatically controlled depending on number of passengers entered on the MFD, aircraft flight level and temperature regulation on the forward cargo compartment",
+    "wrong_answers": [
+      "100% of the MAN value ",
+      "Automatically controlled depending on the number of passengers entered on the MFD and the temperature selected ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR CONDITIONING",
+    "multi_choice": true,
+    "question": "How is temperature regulated in the BULK cargo compartment",
+    "answer": "Some air from the cabin and also an electric heater heats the air if the temperature is lower than the minimum temperature set on the TEMP REGUL selector ",
+    "wrong_answers": [
+      "Air from the packs flows directly to the compartment based on temperature selected on the TEMP REGUL selector ",
+      "Through the mixer unit and trim air system ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR TRAFFIC CONTROL DATALINK ",
+    "multi_choice": true,
+    "question": "How many ATC or AOC centers can be connected to the aircraft at the same time",
+    "answer": "5",
+    "wrong_answers": [
+      "3",
+      "6",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR TRAFFIC CONTROL DATALINK ",
+    "multi_choice": true,
+    "question": "What does the ADS-C application enable flight crew to do",
+    "answer": "Automatically send information, following an agreement with one or more ATC centers ",
+    "wrong_answers": [
+      "Broadcast aircraft position and navigation data to other usersm to enhance traffic awareness",
+      "Exchange message with  the ATC center",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIR TRAFFIC CONTROL DATALINK ",
+    "multi_choice": true,
+    "question": "What is the MAX UPLINK DELAY function",
+    "answer": "Enables ATC Datalink System to reject any CPDLC uplink message if the delay between ground emission and onboard reception exceeds the time specified ",
+    "wrong_answers": [
+      "Alerts flight crew if a CDPLC uplink message exceeds the time specified",
+      "Alerts the flightcrew if a CDPLC downlink message fails to send within the tike specified",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "What is the minimum fuel temperature when using jet A1 fuel ",
+    "answer": "-47 deg C ",
+    "wrong_answers": [
+      "-30 deg C",
+      "-60 deg C",
+      "-10 deg C"
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "What is the Maximum cross wind limitation for auto land ",
+    "answer": "30 Kts ",
+    "wrong_answers": [
+      "28 Kts",
+      "35 Kts ",
+      "38 Kts"
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "What is the Maximum Crosswind for Landing (dry) ",
+    "answer": "40 kts ",
+    "wrong_answers": [
+      "28 Kts",
+      "35 Kts ",
+      "42 kts "
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "What is the maximum tailwind limitation for auto land",
+    "answer": "15 kts",
+    "wrong_answers": [
+      "10 kts",
+      "12 kts",
+      "8 kts"
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "What is the minimum height for use of autopilot in approach with F-G/S mode ",
+    "answer": "200 ft AGL",
+    "wrong_answers": [
+      "500 ft AGL",
+      "Applicable minimum ",
+      "160 ft AGL"
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "The use of AP or FD in OPEN DES or DES mode is not permitted in approach, unless the FCU selected altitude is set to or above",
+    "answer": "MDA (MDH) or 500 ft, whichever is higher ",
+    "wrong_answers": [
+      "MDA (MDH) or 300 ft, whichever is higher ",
+      "MDA (MDH) or 200 ft, whichever is higher ",
+      "MDA (MDH) or 800 ft, whichever is higher"
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "TMAX FLEX is",
+    "answer": "ISA +60 ",
+    "wrong_answers": [
+      "ISA +52",
+      "ISA +57 ",
+      "ISA +44"
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "The recommended turbulence speed is",
+    "answer": "Between G/D and 300 kts/M 0.85",
+    "wrong_answers": [
+      "300 kts below FL 300 and 0.86 above FL 300 ",
+      "Between G/D and 280 kts/M 0.84 ",
+      "300 kts / M0.85 whichever is less "
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "What is the maximum fuel temperature when using Jet A1 Fuel ",
+    "answer": "55 deg C",
+    "wrong_answers": [
+      "40 deg C",
+      "63 deg C",
+      "45 deg C"
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "What is the wingspan of the A350-900 aircraft",
+    "answer": "64.75m (212ft 5in) ",
+    "wrong_answers": [
+      "60.3m (197ft 10in) ",
+      "66.61 m (21 8ft 6in) ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AIRCRAFT GENERAL ",
+    "multi_choice": true,
+    "question": "What is the approximate turn width without margin on dry runway for the a350-900 with the recommended 180 degrees turn technique",
+    "answer": "53m (174ft) ",
+    "wrong_answers": [
+      "59m (194ft) ",
+      "47m (154ft) ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AUXILIARY POWER UNIT ",
+    "multi_choice": true,
+    "question": "Following an automatic start the APU bleed valve opens and the APU supplies bleed air to the bleed air system when",
+    "answer": "The APU is AVAIL, The flight crew sets one engine master lever to the START position, The aircraft is below 25000 ft (All)",
+    "wrong_answers": [
+      "The APU is AVAIL",
+      "The flight crew sets one engine master lever to the START position",
+      " The aircraft is below 25000 ft"
+    ]
+  },
+  {
+    "subjects": "AUXILIARY POWER UNIT ",
+    "multi_choice": true,
+    "question": "Can temperature in the cabin and cockpit still be controlled if APU ECON MODE is in operation",
+    "answer": "There is no control of the temperature in the cabin and in the cockpit.",
+    "wrong_answers": [
+      "Yes, for cockpit only",
+      "Yes, but performance is reduced",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AUXILIARY POWER UNIT ",
+    "multi_choice": true,
+    "question": "In normal conditions, can the APU still be operated if the OIL LEVEL LO advisory is displayed on the APU SD page",
+    "answer": "Yes, maintenance action is required within 20 hrs ",
+    "wrong_answers": [
+      "Yes, for 15 hours",
+      "No, maintenance action is due",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AUXILIARY POWER UNIT ",
+    "multi_choice": true,
+    "question": "On ground, what is the APU fuel consumption with packs ON and GEN ON",
+    "answer": "230 kg/h ",
+    "wrong_answers": [
+      "215 kg/h",
+      "180 kg/h",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AUXILIARY POWER UNIT ",
+    "multi_choice": true,
+    "question": "When is APU automatic start available",
+    "answer": "In flight and an all engine failure is detected ",
+    "wrong_answers": [
+      "In flight when all AC buses are lost",
+      "In flight and low level detection in both hydraulic systems",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AUXILIARY POWER UNIT ",
+    "multi_choice": true,
+    "question": "What electrical power does the APU starter generator system supply",
+    "answer": "230 V AC ",
+    "wrong_answers": [
+      "115 V AC",
+      "200-240 V AC ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "AUXILIARY POWER UNIT ",
+    "multi_choice": true,
+    "question": "Maximum EGT for APU running",
+    "answer": "680 degrees celsius ",
+    "wrong_answers": [
+      "650 degrees celsius ",
+      "700 degrees celsius ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "BLEED AIR",
+    "multi_choice": true,
+    "question": "If there is leak detection in either pack",
+    "answer": "If the Hot Air Valve does not close automatically. Both Pack valves of the associated pack will automatically close",
+    "wrong_answers": [
+      "Both pack valves and cross bleed valves are closed automatically ",
+      "Only one pack valve closes, the other one takes over automatically ",
+      "Hot Air Valve closes automatically and pack valve remain open"
+    ]
+  },
+  {
+    "subjects": "BLEED AIR",
+    "multi_choice": true,
+    "question": "What additional valves automatically close if the hot-air valve does not automatically close",
+    "answer": "Both pack valves of the associated pack ",
+    "wrong_answers": [
+      "Associated engine bleed and engine bleed overpressure valves",
+      "Crossbleed valve",
+      "-"
+    ]
+  },
+  {
+    "subjects": "BLEED AIR",
+    "multi_choice": true,
+    "question": "When will ECAM trigger a bleed leak alert",
+    "answer": "When one loop detects an ambient overheat, other one is inoperative ",
+    "wrong_answers": [
+      "When one of the two loops detect an ambient overheat",
+      "When both loops fail within 5 seconds",
+      "-"
+    ]
+  },
+  {
+    "subjects": "BLEED AIR",
+    "multi_choice": true,
+    "question": "What valves automatically close if a bleed leak is detected in the left wing bleed duct",
+    "answer": "Engine 1 bleed, engine 1 bleed overpressure, crossbleed and APU bleed valves ",
+    "wrong_answers": [
+      "Engine 1 bleed, engine 1 bleed overpressure and crossbleed valves ",
+      "Engine 1 bleed and engine 1 bleed overpressure valves",
+      "-"
+    ]
+  },
+  {
+    "subjects": "BLEED AIR",
+    "multi_choice": true,
+    "question": "Up to what altitude can APU supply bleed air for engine start",
+    "answer": "25000 ft ",
+    "wrong_answers": [
+      "20000 ft ",
+      "22500 ft ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "COMMUNICATION",
+    "multi_choice": false,
+    "question": "When does the load light come on in an ARMP",
+    "answer": "The light comes on when a VHF or HF CPDLC frequency is received on the mailbox",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "COMMUNICATION",
+    "multi_choice": true,
+    "question": "If RMP 1 and RMP 2 fail, is standby radio navigation still available",
+    "answer": "No",
+    "wrong_answers": [
+      "Yes, via RMP 3",
+      "Yes, only voice and data communication are lost",
+      "-"
+    ]
+  },
+  {
+    "subjects": "COMMUNICATION",
+    "multi_choice": true,
+    "question": "Can VHF 3 be used for communication in voice mode",
+    "answer": "Yes",
+    "wrong_answers": [
+      "Yes, but only if VHF 1 and VHF 2 have failed",
+      "no, it is onlt configured for short range communication in data mode ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "COMMUNICATION",
+    "multi_choice": true,
+    "question": "How do you enable the NAV page access key",
+    "answer": "By pressing the RAD NAV STBY key ",
+    "wrong_answers": [
+      "By pressing and holding for at least  1 secNav page will be displayed on the RMP",
+      "It is automatically enabled when FMS1 and FMS 2 have failed",
+      "-"
+    ]
+  },
+  {
+    "subjects": "COMMUNICATION",
+    "multi_choice": true,
+    "question": "How many VHF antennas are installed on the aircraft",
+    "answer": "Three. Each VHF channel has its own antenna. ",
+    "wrong_answers": [
+      "Two. VHF 2 and 3 share one antenna ",
+      "Four. Each VHF channel has its own antennas and a 4th antenna acts as a backup. ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "COMMUNICATION",
+    "multi_choice": true,
+    "question": "How many HF antennas are installed on the aircraft",
+    "answer": "One",
+    "wrong_answers": [
+      "Two. One is connected to HF 1 and other one to HF 2 ",
+      "Three. One is connected to HF 1 , one to HF 2 and other one is in data mode and also acts as a back up ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": false,
+    "question": "When is the safety altitude profile displayed on the VD when altimeter is set to STD",
+    "answer": "When the altitude is within the vertical scale of the VD AND: Within 100 NM of the departure airport, or within 100 NM of the destination airport with a QNH value in the FMS PERF/APPR page, or within 200 NM of the destination airport in DES or APPR phase with a QNH value in the FMS PERF/APPR page.",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "FCU Backup Function is an FCU alternative in case of:",
+    "answer": "EFIS CP or AFS CP failure.",
+    "wrong_answers": [
+      "EFIS CP failure only",
+      "EFIS CP or AFS CP or ECP failure",
+      "AFS CP failure only."
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When the flight crew exits from a checklist via the CHECKLIST MENU button:",
+    "answer": "The state of each not-sensed item line is memorized.",
+    "wrong_answers": [
+      "Each not-sensed item will be considered as actioned (BLUE).",
+      "All not-sensed item line will turn to blue color when the flight crew calls the CHECKLIST again.",
+      "All not-sensed item line will turn to gray color when the flight crew calls the CHECKLIST again."
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "If the Limitations and Memos exceed the display in WD",
+    "answer": "In this case some Limitation or Memos do not appear on the WD",
+    "wrong_answers": [
+      "The flight crew press the RECALL pb to see the rest of the Memos or Limitations",
+      "The flight crew press the CLEAR function to call second STATUS page and monitor the rest of the Memos or Limitations",
+      "The flight crew press the STATUS pb to see the rest of the Memos or Limitations"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "Which statement is correct",
+    "answer": "The FLS beam is displayed on the VD only when the vertical cut is defined along the flight plan",
+    "wrong_answers": [
+      "The FLS beam appears on ND regardless of LS pb",
+      "The FLS beam appears on ND only when a range of less than 40 NM is selected on EFIS CP",
+      "The FLS beam is displayed on the VD as soon as the APP pb pressed"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When the DONE flight phase is active, each FMC computes an average drift for each IR position, drift is based between the IR landing position and",
+    "answer": "Reference landing position (Destination RWY threshold plus 400m shift on RWY access)",
+    "wrong_answers": [
+      "Aerodrome reference point (ARP)",
+      "ADIRS average position",
+      "Destination RWY threshold"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The flight crew can access to the ALTERNATE page",
+    "answer": "Via the F-PLN page, by selecting the ALTERNATE revision in the FPLN INFO menu",
+    "wrong_answers": [
+      "Via the ACTIVE flight plan and also via SECUNDARY flight plan only when the aircraft is in flight",
+      "Only via the SECONDARY flight plan",
+      "Via the ACTIVE flight plan only"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The label \u201cF G/S\u201d (in magenta) appears above vertical deviation scale on PFD when",
+    "answer": "The approach is flown in LOC/FLS",
+    "wrong_answers": [
+      "The selected approach is GNSS or GPS approach",
+      "The vertical guidance is not available during the NPA",
+      "Deviation from FLS beam exceeds 75 ft"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The PFD airspeed scale displays",
+    "answer": "VR by a blue dot",
+    "wrong_answers": [
+      "VR in Blue",
+      "VR in magenta",
+      "VR is not displayed on PFD speed scale"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "If the vertical cut defined along the flight plan, the width used for the safety altitudes and the terrain display on the active leg is equal to",
+    "answer": "Two time the maximum EPU or FMS RNP",
+    "wrong_answers": [
+      "10 NM in BRNAV and 1 in PRNAV routes",
+      "Two times TWAS RNP",
+      "Both a and b"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "Yaw Bar:",
+    "answer": "Indicates the required rudder input in order to maintain the aircraft on the runway centerline.",
+    "wrong_answers": [
+      "Appears together with pitch bar in RWY but does not provide any guidance.",
+      "Provides steering command and appears alone in flare.",
+      "Replaces F/D pitch bar in flare."
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When anchor point is shown in Magenta, it means",
+    "answer": "The anchor point is pseudo end point and is computed by the FMS",
+    "wrong_answers": [
+      "That the anchor point is computed by FMS and becomes green after passing FAF",
+      "That the anchor point represents FAF",
+      "The anchor point is stored in flight plan and is active (TO) waypoint"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When will \u201cNAV CAPT & F/0 ATT DISAGREE\u201d warning will trigger",
+    "answer": "The attitude displayed on the PFD of the Captain differs from the attitude displayed on the PFD of the First Officer by more than 5\u00b0 in pitch or roll",
+    "wrong_answers": [
+      "The attitude displayed on the PFD of the Captain differs from the attitude displayed on the PFD of the First Officer by more than 7\u00b0 in pitch or roll",
+      "The attitude displayed on the PFD of the Captain differs from the attitude displayed on the PFD of the First Officer by more than 10\u00b0 in pitch or roll",
+      "The attitude displayed on the PFD of the Captain differs from the attitude displayed on the PFD of the First Officer by more than 4\u00b0 in pitch or roll"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "If an engine failure occurs during DES or APP flight phase",
+    "answer": "The managed speed target does not change",
+    "wrong_answers": [
+      "The managed speed target becomes EOGDOT",
+      "The managed speed mode varies depend on the V/S at the time of engine failure",
+      "The managed speed target changes to GDOT"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When ATC FPLN displayed on SEC Flight Plan Creation Source, it means",
+    "answer": "The flight created the secondary flight plan by uploading a received ATC flight plan",
+    "wrong_answers": [
+      "The flight created the secondary flight plan by swapping the ACTIVE flight plan",
+      "The ACTIVE flight plan source is originally created by uploading a received ATC flight plan",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "How many \u201cPilot store\u201d Waypoints, Route and RWY may be stored in FMS",
+    "answer": "99 Waypoints, 5 Routes and 10 Runways",
+    "wrong_answers": [
+      "40 Waypoints, 5 Routes and 5 Runways",
+      "50 Waypoints, 5 Routes and 5 Runways",
+      "99 Waypoints, 10 Routes and 10 Runways"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "On the POSITION/TIME page, flight crew can manually modify the start and stop times that the FMS uses to compute",
+    "answer": "Both Block and Flight Time",
+    "wrong_answers": [
+      "Minimum taxi time for departure",
+      "Block Time",
+      "Flight Time"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "If one FMC fails, the backup FMC takes over and synchronizes with active FMC. In case the backup FMC also fails",
+    "answer": "The remaining active FMC will continue to control FMC1 and FMC2, reconfiguration is not required",
+    "wrong_answers": [
+      "The remaining active FMC will continue to control onside FMS. Depending on the failed DMCs either FMS1 or FMS2 switches to backup mode or flight crew must create basic flight plan through ISIS",
+      "The reconfiguration of FMCs is necessary",
+      "Both A and C are correct answer"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "If the speed constraint is applicable to holding fix:",
+    "answer": "FMS applies the speed constraint only at the end of the LEG",
+    "wrong_answers": [
+      "FMS applies the speed constraint on the entire LEG.",
+      "FMS considers Maximum Endurance Speed regardless of the constraint over Holding Fix",
+      "FMS considers the speed 3 minutes prior holding entry."
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "SRS TO is engaged, V2 is suddenly lost during T.O. rotation",
+    "answer": "The managed speed target remains engaged and equals V2 because the PRIMs memorize the target value at SRS TO engagement",
+    "wrong_answers": [
+      "The PRIMs command a defaulted pitch value of 11\u00b0",
+      "Flight guidance reverts to basic mode (HDG-V/S) with a FD pitch command equal to 1000\u2019/ min",
+      "Flight guidance revert to basic mode (HDG-V/S) with FD pitch command equal to 1500\u2019 / min"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "In Vertical Revision Page (ACTIVE/F-PLN/VERT REV/STEP ALTs)",
+    "answer": "OPTIMM STEP POINT entry field accepts step altitude that is at least 100 ft above the cruise level",
+    "wrong_answers": [
+      "OPTIMM STEP POINT entry field accepts step altitude that is at least 1000 ft above the cruise level",
+      "OPTIMM STEP POINT entry field accepts step altitude between cruise FL and FL 431",
+      "OPTIMM STEP POINT entry field accepts step altitude that are below MAX REC ALT"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "During flight FD\u2019s come in view automatically if",
+    "answer": " The flight crew engages a go-around, or the AP/FD TCAS mode engages upon a Resolution Advisory, or the EMER DES mode engages.",
+    "wrong_answers": [
+      "Flight crew select the other AP",
+      "Pilot selects TOGA and only if they were disappeared due excessive pith up attitude",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When the \u201cDe-clutter RWY\u201d item activated by the crew",
+    "answer": "Some symbols that are not related to the selected runway are displayed in gray and become not interactive and DISPLAY ALL function is available in the interactive menu",
+    "wrong_answers": [
+      "Other runways in the destination aerodrome become gray and DISPLAY ALL function is available in the interactive menu",
+      "\u201cDISPLAY ALL\u201d function changes to grey and become not interactive",
+      "All the taxiways with the range of more than 1 nm from selected runway become not interactive and DISPLAY ALL function is available in the interactive menu"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "On EFIS CP when barometric reference is changed by the flight crew",
+    "answer": "In order to keep the barometric height constant between the aircraft reference and the terrain profile, terrain moves vertically",
+    "wrong_answers": [
+      "FLS bean compensates for new barometric reference and the terrain profile remains unchanged",
+      "The vertical terrain profile remains unchanged, crew awareness required",
+      "The vertical terrain profile remains unchanged until flight crew enters the new reference in the APPR panel on MFD PERF page"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The IDENT of an Anchor point in FLS approach is shown as EP32L, It corresponds to",
+    "answer": "The anchor point is not located on the runway threshold: In this case, the anchor point is also referred to as the End Point (EP). Note 32L is the runway indentifier.",
+    "wrong_answers": [
+      "Threshold of the Landing Runway",
+      "MAP",
+      "Both A & B"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "After engine start, flight crew realize that the three FMCs are operative, but in abnormal configuration (e.g. FMC-C is assigned to FMS 1, and FMC-A is the backup FMC), crew may restore the normal configuration by",
+    "answer": "A reset of one of the FMCs that is not in the correct configuration (computer reset)",
+    "wrong_answers": [
+      "Switching one of the FMSs to OFF for 3 seconds",
+      "A reset of both of the FMCs that are not in the correct configuration (computer reset)",
+      "Monetarily switching of both FMS on the correctly operated source"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The Multi Function Probes (MFP) provide",
+    "answer": "Angle of Attack, TAT and Total Air Pressure",
+    "wrong_answers": [
+      "Angle of Attack, TAT, Total Air Pressure, OAT and SIDESLIP angle",
+      "Angle of Attack, OAT and SIDESLIP angle",
+      "Angle of Attack, TAT and SIDESLIP angle"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "In normal conditions, during an approach with FLS function, the approach capability appears on the FMA when",
+    "answer": "The LS P/B is pressed and the active FMS flight phase is CRZ, DES or APP",
+    "wrong_answers": [
+      "The approach is activated either by flight crew or automatically",
+      "The LS P/B is pressed and the aircraft is within 300 nm from destination",
+      "The LS P/B is pressed regardless of the flight phase"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "During approach, when destination temperature is below ISA and destination temperature is entered in the APPR panel on MFD PERF page",
+    "answer": "The FMS offsets both FLS beam and Runway symbol to maintain the vertical clearance with the ground, therefore the green descent path and FLS beam will not superimposed on the VD",
+    "wrong_answers": [
+      "The FMS decreases the FPA and only FMS magenta beam displayed in VD",
+      "The FMS green descent path displayed in VD and FLS runway symbol remains fixed, however the anchor points shifts vertically",
+      "The FMS increases the predicted path and only FMS green descent path displayed in VD"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "Which statement is true about Time Constraint if it is inserted in FLT PLN",
+    "answer": "All of the above",
+    "wrong_answers": [
+      "The Time Constraint on a way point is included by a Star in the left of the waypoint time prediction. Color of the start is magenta if time constraint will be respected, amber if the constraint will be missed",
+      "Upper part of the ND displays the Time Constraint when CONSTRAINTS option is selected on EFIS CP",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "During approach, in de-clutter 2 mode:",
+    "answer": "X-wind switch has no effect on display as speed and altitude scales are reduced",
+    "wrong_answers": [
+      "The bank marker limit of roll scale reduces to 15\u00b0",
+      "The bank marker limit of roll scale reduces to 30\u00b0",
+      "The altitude scale reduces but speed scale remains the same as de-clutter 1 mode"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The GA SOFT mode engages if all the following conditions are available",
+    "answer": "The Slats or flaps are extended, both engines are operative, the aircraft is below the go-around thrust reduction altitude, not performing a touch and go, below 16 000 ft.",
+    "wrong_answers": [
+      "Aircraft is not preforming touch and go, the slats or the flaps are extended and the aircraft is below acceleration altitude",
+      "Aircraft is not preforming touch and go, the slats or the flaps are extended, gear is retracted and SRS is previously engaged",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The flight crew uses DISPATCH computations type of the LDG PERF application",
+    "answer": "To determine MLW limited by performance",
+    "wrong_answers": [
+      "To determine minimum landing distance",
+      "To determine actual landing distance",
+      "To determine required landing distance"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The backup trajectory function automatically deactivates when",
+    "answer": "At least one FMC provides a valid flight plan to CDS",
+    "wrong_answers": [
+      "High accuracy displayed on FMS INIT/NAV page",
+      "Two FMC provides a valid flight plan to CDS",
+      "Predicted accuracy is equal or less than 0.51 nm"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "If selected, the time marker aural alert (audio indicator) sounds",
+    "answer": "When the remaining time between the current UTC time and the UTC time that defines the time marker is equal to 30 seconds",
+    "wrong_answers": [
+      "For 5 seconds when defined time marker UTC time reached",
+      "For 5 seconds at defined time marker time (UTC)",
+      "For 2 seconds at defined time marker time (UTC)"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When \u201cDIR TO \u2013 CRS IN\u201d option is selected on the MFD, the message ADJUST DESIRED TRK OR HDG displays to inform the crew that",
+    "answer": "It is possible to adjust the heading/track and change the position of the INTCPT waypoint",
+    "wrong_answers": [
+      "Intercept angle is more than 60\u00b0",
+      "Interception to the final course is not possible",
+      "Intercept angle is too shallow"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The flight crew can access the OFFSET page via",
+    "answer": "ACTIVE, SEC 1, SEC 2 AND SEC 3 / F-PLN pages",
+    "wrong_answers": [
+      "ACTIVE / F-PLN only",
+      "ACTIVE and SEC 1/F-PLN pages",
+      "ACTIVE and SEC3/F-PLN pages"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The \u201cSPEED CONTRAINT\u201d is predicted as missed",
+    "answer": "When the predicted speed is more than 10 knots above the constraint value. The speed constraint remains missed as long as the predicted speed is more than 5 knots above the speed constraint value",
+    "wrong_answers": [
+      "When the predicted speed is more than 5 knots above the constraint value",
+      "When the predicted speed is more than 10 knots above the constraint value. The speed constraint remains missed as long as the predicted speed is more than 10 knots above the speed constraint value",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The ALTERNATE page is available by selecting FPLN INFO menu in",
+    "answer": "Both ACTIVE and SECONDARY flight plans",
+    "wrong_answers": [
+      "ACTIVE flight plan",
+      "SECUNDARY flight plan",
+      "ACTIVE flight plan and also SECUNDARY flight plans only when the aircraft is in flight"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When the STBY RAD NAV mode of the RMP is active",
+    "answer": "All entry fields on the POSITION/NAVAIDS page are automatically cleared and the flight crew cannot enter data",
+    "wrong_answers": [
+      "Entry fields on the POSITION/NAVAIDS page are automatically synched with RMP",
+      "The POSITION/NAVIDS page is disabled",
+      "Entry fields on the POSITION/NAVAIDS page are still available and have priority over RMP selections"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "If the transition altitude (Level) is not available from the FMS, the default transition altitude (Level) is automatically set to",
+    "answer": "2500 ft RA",
+    "wrong_answers": [
+      "25000 ft RA",
+      "10000 ft RA",
+      "2000 ft RA"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When SYNCHRO ECAM BUTTON clicked, OIS updates the list of",
+    "answer": "Both DISPATCH and ECAM alerts",
+    "wrong_answers": [
+      "DISPATCH alerts",
+      "ECAM Cancelled alerts",
+      "Active ECAM alerts"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "On the VD, the altitude constraint is indicated with:",
+    "answer": "Both a) and b) are correct.",
+    "wrong_answers": [
+      "Two triangles (hourglass shape, with touching tips), for the AT altitude constraint and Two triangles (hourglass shape, with tips that do not touch), for the ALTITUDE WINDOW",
+      "An upside-down triangle, for the AT OR BELOW altitude constraint and a triangle, for the AT OR ABOVE altitude constraint.",
+      "Amber dashes if approach has been manually activated."
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "TAXI mode appears on HUD when",
+    "answer": "Aircraft is on the ground and taxi speed is less than 40 kt.",
+    "wrong_answers": [
+      "Aircraft is on the ground.",
+      "Aircraft is on the ground and taxi speed is between 3kt and 42 kt.",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "In ROSE-NAV mode, TCAS circle corresponds to 2.5 nm appears when",
+    "answer": "The selected range is less than or equal to 20 nm and the flight crew presses the TRAF pb on EFIS CP or a TCAS alert is triggered",
+    "wrong_answers": [
+      "The selected range is less that or equals to 20 nm and a TCAS alert is triggered",
+      "The selected range is less than or equal to 40 nm and the flight crew presses the TRAF pb on EFIS CP or a TCAS alert is triggered",
+      "The selected range is less than or equal to 40 nm and the flight crew presses the TRAF pb on EFIS CP"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "On CHECKLIST menu page, When RESET button clicked",
+    "answer": "Sensed items lines for which action is completed remain validated",
+    "wrong_answers": [
+      "The blue selection box remains in its last position selecting the reset function",
+      "All non-sensed items remain validated",
+      "All action become blue"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The Safety Altitude on VD is displayed in the form of",
+    "answer": "Either MORA or MSA both cannot be displayed at the same time",
+    "wrong_answers": [
+      "Both MORA and MSA",
+      "MORA only",
+      "MSA only"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "On top part of ND, the BTV displays messages in the same area as TRUE INDICATION",
+    "answer": "When a BTV message is displayed, the TRUE indication appears under the TAS indication (on the third line)",
+    "wrong_answers": [
+      "When a BTV message is displayed, it masks the TRUE indication",
+      "When a BTV message is displayed, the TRUE indication replaces the TAS indication",
+      "When a BTV message is displayed, the TRUE indication moves to lower right side of the ND"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "On VD the grey area indicates",
+    "answer": "That the direction of the route differs from the current heading by more than 3\u00b0",
+    "wrong_answers": [
+      "The areas where TWAS stop displaying the terrain on ND",
+      "That the terrain ahead of the aircraft flying track is not reliable",
+      "Both A and B are correct answers"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "The VD range is always limited to",
+    "answer": "160 nm",
+    "wrong_answers": [
+      "240 nm",
+      "320 nm",
+      "80 nm"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "During an approach, if the deviation exceeds a quarter deflection in either vertical deviation scale or the G/S symbol, both the scale and deviation symbols flash when",
+    "answer": "All of the above",
+    "wrong_answers": [
+      "The aircraft is below 1000 ft down to 100 ft",
+      "LAND 1, LAND 2 or LAND 3 appears on the FMA",
+      "G/S, LAND or FLARE is engaged"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "In the air, destination airport moving map may only be displayed by ANF when",
+    "answer": "The airport is in ND range and the altitude of the aircraft is less than 5000\u2019 AAL",
+    "wrong_answers": [
+      "Below 10000\u2019 and the aircraft is less than 20 NM from the threshold of the selected runway",
+      "The runway is in ND range and the altitude of the aircraft is less than 3000\u2019 AAL",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When the entire content of DEFERRED PROCEDURE is displayed in grey, it means that",
+    "answer": "The procedure is NOT ACTIVE",
+    "wrong_answers": [
+      "The procedure is ACTIVATED",
+      "The DEFRD RECALL is pressed",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When HUD is in use, digital indication of Vertical speed appears if:",
+    "answer": "Vertical speed exceeds +/- 200 ft.",
+    "wrong_answers": [
+      "Vertical speed exceeds +/- 50 ft.",
+      "Vertical speed exceeds +/- 100 ft.",
+      "Vertical speed exceeds +/- 500 ft."
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When does the Takeoff Line Indicator appear in the dispatch message",
+    "answer": "When takeoff thrust is set ",
+    "wrong_answers": [
+      "When aircraft is airborne above 50 ft",
+      "When main landing gear are no longer compressed for take off",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "What audio indicator is available for Level 1 alert",
+    "answer": "nan",
+    "wrong_answers": [
+      "Single chime",
+      "Continuous repetitive chime",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When will the beta target appear",
+    "answer": "If one engine fails during takeoff or go-around ",
+    "wrong_answers": [
+      "If one engine fails during take off",
+      "If one engine fails and the autopilot is not engaged",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "How are safety altitude profile displayed on the VD if the value is within the vertical scale",
+    "answer": "Dashed magenta line ",
+    "wrong_answers": [
+      "Solid magenta line",
+      "Dashed blue line",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When is the DISPATCH PAGE UPDATE displayed",
+    "answer": "When a dispatch message is not associated with an ECAM alert, appears before takeoff and after all engine shutdown ",
+    "wrong_answers": [
+      "When a dispatch message is not associated with an ECAM alert, appears before engine start and after all engine shutdown ",
+      "When a dispatch message is not associated with an ECAM alert, appears before takeoff and after landing",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "Are completed deferred procedures still displayed in the list of deferred procedures",
+    "answer": "Yes, with a white title ",
+    "wrong_answers": [
+      "No",
+      "Yes, with an green title ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "Which of the following systems have a SD MORE page",
+    "answer": "WHEEL, COND, F/CTL",
+    "wrong_answers": [
+      "ENG, WHEEL, F/CTL ",
+      "ENG, F/CTL, HYD ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "In automatic DUS reconfiguration, what is the order of priority?",
+    "answer": "EFIS and ECAM, MFD, OIS",
+    "wrong_answers": [
+      "MFD, EFIS and ECAM, OIS ",
+      "EFIS and ECAM, and MFD ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "When will the CHECK ATT message display on the PFDs",
+    "answer": "Attitude data displayed on the two PFDs differ by more than 5 degrees in pitch or roll ",
+    "wrong_answers": [
+      "Attitude data displayed on the two PFDs differ by more than 10 degrees in pitch or roll ",
+      "Attitude data displayed on the two PFDs differ by more than 2.5 degrees in pitch or roll ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "What are the indications on the PFDs for a G/S transmitter failure",
+    "answer": "G/S indexes disappear and G/S scales temporarily flash",
+    "wrong_answers": [
+      "Red G/S signal ",
+      "G/S indexes and scales disappear ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "What info does the BACKUP TRAJ function provide on the ND",
+    "answer": "Enables the recovery of data within a circular of 80 NM radius around the aircraft",
+    "wrong_answers": [
+      "Enables the recovery of the next 10 waypoints of the active flight plan ",
+      "Enables the recovery of data within a circular area dependent on the ND range selected at the time of the FMC or FMS failures",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "What does the magenta areas on the VD indicate",
+    "answer": "Areas where the TAWS stops displaying the terrain",
+    "wrong_answers": [
+      "Areas of Wet Turbulence ahead of the aircraft ",
+      "Indicates constraints on the displayed waypoints on the VD ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "CONTROL & DISPLAY SYSTEM ",
+    "multi_choice": true,
+    "question": "How is the missed approach path displayed on the ND",
+    "answer": "Solid blue line",
+    "wrong_answers": [
+      "Dashed blue line ",
+      "White solid line ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "DOORS",
+    "multi_choice": false,
+    "question": "When will the cockpit door automatically open",
+    "answer": "In case of a rapid decompression ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "DOORS",
+    "multi_choice": true,
+    "question": "What happens if the Cockpit Door Locking System fails",
+    "answer": "Door unlocks but remains closed ",
+    "wrong_answers": [
+      "Door remains locked and closed",
+      "Door unlocks and opens",
+      "-"
+    ]
+  },
+  {
+    "subjects": "DOORS",
+    "multi_choice": true,
+    "question": "When will the Cabin Pressure Warning Light flash red",
+    "answer": "Aircraft on ground, related slide is disarmed, differential pressure is above 0.036 PSI, both engines are OFF ",
+    "wrong_answers": [
+      "Aircraft on ground, related slide is disarmed, differential pressure is above 0.036 PSI, both engines are OFF and control door handle is lifted up",
+      "Aircraft on ground, related slide is disarmed, differential pressure is above 0.036 PSI and door control handle is lifted up",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": false,
+    "question": "In emergency configuration",
+    "answer": "RAT provides AC 230 V Power, Two emergencies TU provides AC 115V power from AC 230 V power,  One DC static inverter (STAT INV) can also provide some AC 115V power from DC 28V power (All of the above applies)",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": false,
+    "question": "When amber FAULT light comes on generator \u201cDRIVE\u201d PB ",
+    "answer": "This can be due generator oil overheat or an engine mechanical fault. The engine generator must be disconnected. (All of the above)",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": false,
+    "question": "When amber FAULT light comes on generator \"DRIVE\" PB ",
+    "answer": "This can be due to an engine mechanical fault  or generator oil overheat and the engine generator must be disconnected",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": false,
+    "question": "In emergency configuration ",
+    "answer": "Two emergencies TU provides AC 115V power from AC 230 V power, RAT provides AC 230 V Power, One DC static inverter (STAT INV) can also provide some AC 115V power from DC 28V power ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "In flight, the APU generator can replace up to ",
+    "answer": "2 engine generators.",
+    "wrong_answers": [
+      "All 4 engine generators.",
+      "Single engine generator, the APU and engine generators are identical. ",
+      "62% of total electrical load in cruise."
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "The DC network is not available towing may be permitted",
+    "answer": "On Battery power (BAT1), TOWING ON BAT \u201cON\u201d light come on \u201cPOWER\u201d p/b ",
+    "wrong_answers": [
+      "On Battery EMER 1",
+      "On Battery EMER ",
+      "On Battery EMER 1 and EMER 2, TOWING ON BAT \u201cON\u201d light comes on \u201cPOWER\u201d p/b"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "One engine generator failed and the APU has been started in flight ",
+    "answer": "The APU will supply the bus bar of the lost generator, therefore no shedding is needed",
+    "wrong_answers": [
+      "Manual shedding is required",
+      "The APU will supply the AC EMER1 and AC EMER 2 bus bars therefore no shedding is required, the remaining three generators provide full electrical distribution",
+      "The APU will supply the AC EMER 1 and AC EMER 2 bus bars, auto shedding required due to APU load limit"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "When BUS TIE P/B SW is in normal position",
+    "answer": "The BUS TIE contactors automatically open or close to reconfigure the electrical network, when necessary",
+    "wrong_answers": [
+      "The BUS TIE contractors remain closed",
+      "The BUS TIE contactors automatically open or close to reconfigure the ESSENTIAL AC BUS",
+      "BUS TIE contactor are open AC 1A, AC 1B, AC 2A, AC 2B are segregated from each other"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "If connected the electrical network is not power supplied by the external power units when",
+    "answer": "APU is running (only for EXT 1) or engines are running ",
+    "wrong_answers": [
+      "The ground servicing mode is activated and ON blue light is illuminated on EXT 1(2)",
+      "APU is running",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "What is the MIN RAT SPEED in ELEC EMER CONFIG ",
+    "answer": "140Kts",
+    "wrong_answers": [
+      "150Kts",
+      "160Kts",
+      "125Kts"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "One engine generator failed and the APU has been started in flight",
+    "answer": "The APU will supply the bus bar of the lost generator, therefore no shedding is needed",
+    "wrong_answers": [
+      "The APU will supply the AC EMER 1 and AC EMER 2 bus bars, auto shedding required due to APU load limit",
+      "The APU will supply the AC EMER1 and AC EMER 2 bus bars therefore no shedding is required, the remaining three generators provide full electrical distribution",
+      "Manual shedding is required"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "What are the consequences when GEN 1A plus 1B are set to OFF when applying the FIRE SMOKE FUMES procedure ",
+    "answer": "F/CTL law degrades to alternate law  and the Cockpit lights are partially lost.",
+    "wrong_answers": [
+      "THS is unlocked ",
+      "F/CTL law degrades to direct law",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "The DC network is not available towing may be permitted ",
+    "answer": "On Battery power (BAT1) TOWING ON BAT \"ON\" light come on \"POWER\" p/b ",
+    "wrong_answers": [
+      "On Battery EMER 1 ",
+      "On Battery EMER 2 ",
+      "On Battery EMER 1 and EMER 2, TOWING ON BAT \"ON\" light comes on \"POWER\" p/b"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "Why should the flight crew keep the external power unit ON, particularly in hot weather conditions even if the APU is running ",
+    "answer": "To reduce the APU load ",
+    "wrong_answers": [
+      "To reduce load on batteries ",
+      "To save fuel ",
+      "All answers are correct "
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "Function of the TRs",
+    "answer": "Supply the DC network with a DC 28 V power from the AC 230 V power",
+    "wrong_answers": [
+      "Supply the DC network with a DC 28 V power from the AC 115 V power",
+      "Supply the ACT 115 V network with power from the DC 28 V network",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "What happens in the case the BUS TIE pb-sw is pressed to OFF",
+    "answer": "The normal AC busbars and the normal DC busbars are segregated from each other ",
+    "wrong_answers": [
+      "The AC network is isolated from the DC network",
+      "Disconnects the RAT from powering the emergency network after one or more generators recover",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "What drives the emergency generator",
+    "answer": "The RAT",
+    "wrong_answers": [
+      "The emergency batteries when all generators are lost",
+      "The green or yellow hydraulic system",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "What is the frequency range of the engine generators",
+    "answer": "390 - 800 Hz depending on N3 rotation speed of the engine",
+    "wrong_answers": [
+      "390 - 400 Hz depending on N3 rotation speed of the engine",
+      "400 Hz constant ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ELECTRICAL SYSTEM",
+    "multi_choice": true,
+    "question": "When will the RAT automatically extend",
+    "answer": "In the case of loss of power supply on all normal AC busbars in flight",
+    "wrong_answers": [
+      "When only one generator is supplying power to the network in flight ",
+      "In the case of loss of power supply on all normal AC and DC busbars in flight ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": false,
+    "question": "The oil quantity advisory is inhibited ",
+    "answer": "At takeoff or go-around, when the thrust reversers are selected, or when the alpha floor protection is active  (All of the above)",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "On the ground, with ENG MASTER lever set to OFF",
+    "answer": "The electrical network of the aircraft supplies the FADEC for 15 min",
+    "wrong_answers": [
+      "FADEC will lose the electrical supply when N3 drops below 8%",
+      "FADEC alternator supplies the FADEC electrically for 5 minutes after engine is shutdown",
+      "FADEC alternator supplies the FADEC electrically for 15 minutes after engine shutdown"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "The 0% THR is the engine thrust when ",
+    "answer": "The associated engine is not running or when wind milling starts ",
+    "wrong_answers": [
+      "Idle power selected",
+      "Idle power selected, it disappears as soon as \u201dApproach idle\u201d becomes active ",
+      "Aircraft is on ground, engines are running and idle thrust is selected"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "FADEC starts the engine via starter assisted start if ",
+    "answer": "N3 is below 6% or the airspeed is below 250 kt.",
+    "wrong_answers": [
+      "The air speed is below 250 kts",
+      "Bleed air is provided by engine in operation and APU bleed valve has been manually switched OFF",
+      "All of the above"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "The FADEC automatically stops the ignition at the end of a manual start sequence when",
+    "answer": "When N3 reaches approximately 50% ",
+    "wrong_answers": [
+      "Start valve closes",
+      "When THR reaches approximately 3% ",
+      "When IDLE displayed on THR indicators"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "Normal idle",
+    "answer": "Is available on the ground if flight crew does not select the reverse thrust ",
+    "wrong_answers": [
+      "Is available only on flight",
+      "Is available only on the ground",
+      "Is available on the ground and on flight provided that A/THR is switched ON "
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "How does the flight crew check the reverse deployment after touchdown ",
+    "answer": "Check that the ECAM ED displays the expected reverser deployment ",
+    "wrong_answers": [
+      "Check that the ECAM E/WD displays (REV red)",
+      "Check that the ECAM SD displays (REV green)",
+      "Check that the ECAM E/WD displays (REV blue)"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "What will happen if the flight crew does not set the ENG START selector to NORM after completing ENG START",
+    "answer": "WHEEL SD page automatically appears instead of the ENG SD page 30 sec after the last engine start",
+    "wrong_answers": [
+      "WHEEL SD page automatically appears instead of the ENG SD page 15 sec after the last engine start",
+      "WHEEL SD page automatically appears instead of the ENG SD page 20 sec after the last engine start",
+      "WHEEL SD page automatically appears instead of the ENG SD page 40 sec after the last engine start"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "During a Manual engine Start, when the FADEC abort an abnormal manual start ",
+    "answer": "In case of rotor over speed",
+    "wrong_answers": [
+      "In case of start valve fault",
+      "In case of oil pressure increase ",
+      "APU bleed fault"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "If the engine shutdown period is greater the 1.5 hours, how long is the minimum engine warm-up period",
+    "answer": "The pilot should operate the engine at idle or near idle for at least 5 min ",
+    "wrong_answers": [
+      "The pilot should operate the engine at idle or near idle for at least 3 min ",
+      "The pilot should operate the engine at idle or near idle for at least 6 min ",
+      "The pilot should operate the engine at idle or near idle for at least 2 min"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "In which following cases the flight crew must immediately select REV MAX during the landing?",
+    "answer": "All answers are correct.",
+    "wrong_answers": [
+      "A failure affects landing performance",
+      "The deceleration is not as expected",
+      "A long flare or a long touchdown"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "The AUTO DERATE option does not affect the climb ceiling as the Max Climb Thrust is automatically recovered",
+    "answer": "True",
+    "wrong_answers": [
+      "2500 ft below the REC AMX ALT",
+      "At approximately 31000 pressure altitude regardless or final cruising level",
+      "2500 ft below the REC AMX ALT"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "How can the crew check ENG OIL QUANTITY before the flight if the ENG oil quantity indication does not appear on the ENG SD page",
+    "answer": "By pressing the ENG 1 and 2 FADEC GND PWR pb-sw on the overhead maintenance panel",
+    "wrong_answers": [
+      "Oil can be checked after engine start",
+      "This information is available on the tech log",
+      "By turning ING on"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "ENG 1(2) FIRE DET FAULT alert triggers in amber when",
+    "answer": "If one failure occurs after the other, at an interval of more than 5 s.",
+    "wrong_answers": [
+      "Only one loop detects fire",
+      "When one loop detects fault and the other one detects fire",
+      "When both loops detect a fire."
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "What will happen if the thrust levers are not at IDLE during engine start",
+    "answer": "If thrust levers are not at IDLE, thrust will rapidly increase to the corresponding thrust lever position, causing hazardous situation",
+    "wrong_answers": [
+      "Master warning will be triggered",
+      "If thrust levers are not at IDLE, thrust will stay at IDLE until thrust lever is moved",
+      "Engine will not start"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "How can the flight crew generally identify high N2/N3 vibration",
+    "answer": "High N2, N3 vibrations can occur without airframe vibrations.",
+    "wrong_answers": [
+      "Can not be identify by the flight crew",
+      "By Master Warning Light",
+      "High N2, N3 vibration are generally associated with airframe vibrations"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "Why should the crew avoid using high levels of reverse thrust at low speed",
+    "answer": "This distortion of the airflow caused by the gases that re-enter the compressor can cause engine stalls that may result in excessive EGT",
+    "wrong_answers": [
+      "Can cause engine fail",
+      "This distortion of the airflow caused by the gases that re-enter the compressor but will not have effect on EGT",
+      "Can cause engine fire"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "If the engine shutdown period is greater than 1.5 hours, how long is the minimum enginewarm-up period?",
+    "answer": "The pilot should operate the engine at idle or near idle for at least 5 min.",
+    "wrong_answers": [
+      "The pilot should operate the engine at idle or near idle for at least 6 min.",
+      "The pilot should operate the engine at idle or near idle for at least 3 min",
+      "The pilot should operate the engine at idle or near idle for at least 2 min."
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "The OVERTHRUST protection is active",
+    "answer": "Both A and B are correct",
+    "wrong_answers": [
+      "When the aircraft is below 16600 ft",
+      "When the aircraft speed is below M 0.45",
+      "Only during TOGA thrust"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "During ENGINE START VALVE MANUAL OPERATION, until when must the ground crew maintain the valve in the OPEN position",
+    "answer": "Until the engine is started",
+    "wrong_answers": [
+      "Until bleed pressure is more than 40 PSI",
+      "Until the APU bleed is selected OFF",
+      "Until N3 is at 45 percent"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "When the THRUST RATING mode is in GA SOFT",
+    "answer": "The engines apply a computed thrust to target a vertical speed of approximately 2 300 ft/min, or TOGA if 2 300 ft/min cannot be reached",
+    "wrong_answers": [
+      "The engine thrust targets a vertical speed of 2000 ft/min or maximum available",
+      "The engine thrust targets a vertical speed of 2000 ft/min",
+      "The engine thrust will be adjusted based on 85% of TOGA thrust"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "On the ground and during an automatic start, if the FADEC detects that the EGT exceeds the temperature limit, the FADEC",
+    "answer": "Shutdowns the engine after an automatic crank process, maintenance action is due",
+    "wrong_answers": [
+      "Shutdowns the engine and automatically initiate a second start sequence",
+      "Shutdowns the engine and automatically initiate a second and last start sequence after an automatic crank process",
+      "Shutdowns the engine"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "Can the flight crew perform One Engine Taxi for departure",
+    "answer": "Yes",
+    "wrong_answers": [
+      "Only on dry taxi ways",
+      "Only when visibility is more than 5 K",
+      "Not authorised for departure"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "The oil quantity advisory is inhibited",
+    "answer": "All of the above",
+    "wrong_answers": [
+      "When the thrust reversers are selected",
+      "At take-off or go-around",
+      "When the alpha floor protection is active"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "Which one of the following conditions deactivates A/THR SOFT mode",
+    "answer": "The Aircraft Speed is greater VMAX -5 kts",
+    "wrong_answers": [
+      "The Aircraft Speed is greater VMAX + 4 kts",
+      "The Aircraft Speed is greater VMAX + 4 kts or greater than VMAX \u2013 5 kts",
+      "A/C descends below FL320 with MACH 0.78"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "During a manual engine start, when does FADEC abort an abnormal manual start?",
+    "answer": "In case of rotor overspeed",
+    "wrong_answers": [
+      "In case of start valve fault",
+      "In case of oil pressure increase",
+      "APU bleed fault"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "FADEC starts the engine via starter assisted start if",
+    "answer": "N3 is below 6%",
+    "wrong_answers": [
+      "All of the above",
+      "The air speed is below 250 kts",
+      "Bleed air is provided by engine in operation and APU bleed valve has been manually switched OFF"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "\u201cEO MAX\u201d LABEL on ACTIVE/PERF CRZ page",
+    "answer": "Depends on the engine state, if both engine operative, it is labelled WHITE, when one engine failed it becomes AMBER",
+    "wrong_answers": [
+      "Is always displayed in AMBER",
+      "Will only be displayed if one engine is failed",
+      "Depends on the engine state, if normal condition (both engine operative), it is labelled GREEN"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "In flight and in case of \u201cALL ENGINE FLAMEOUT\u201d",
+    "answer": "RAT will be deployed to recover the complete emergency AC network and APU automatically starts and supply side 1",
+    "wrong_answers": [
+      "RAT will be deployed to recover the complete emergency AC network",
+      "RAT will be deployed to recover the complete emergency AC network and APU need to be started to supply side 1",
+      "APU will automatically starts and supply complete emergency AC network"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "Is it permitted to use Derated Take-Off thrust for take-off ?",
+    "answer": "Is permitted regardless of the runway condition (dry, wet or contaminated).",
+    "wrong_answers": [
+      "It's permitted on wet and dry runway",
+      "It's permitted only on dry runway",
+      "It's permitted only on wet runway"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "During Manual ENG start if ENG 1(2) START FAULT because of EGT over limit, can the crew do second ENG start",
+    "answer": "NOT permitted",
+    "wrong_answers": [
+      "YES",
+      "YES",
+      "YES"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "How can the flight crew generally identify high N1 vibration?",
+    "answer": "High N1 vibrations are generally associated with airframe vibrations.",
+    "wrong_answers": [
+      "Cannot be identified by the flight crew .",
+      "High N1 vibrations are generally associated without airframe vibrations.",
+      "By Master warning light ."
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "The COOLING message in ENG SD page appears when",
+    "answer": "A dry crank process is in progress to reduce the EGT.",
+    "wrong_answers": [
+      "Engine is in 1 minute cooling cycle and flight crew must not turn the ENG master switch to ON",
+      "ENG is in 20 seconds cooling cycle between two manual starts",
+      "Aircraft landed and \u201cMinimum Engine Idle Time\u201d has not completed"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "On ground, if the engine is still running 10 sec after the ENG MASTER lever is set to OFF how can the crew shut down the ENG",
+    "answer": "ENG 1(2) FIRE P/B",
+    "wrong_answers": [
+      "Switch Off the Batteries",
+      "Switch off the APU",
+      "Reset engine master switch"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "During MAN ENG START, when must the flight crew perform a dry crank",
+    "answer": "If the EGT is greater than 150 degrees Celsius",
+    "wrong_answers": [
+      "If the EGT is greater than 160 degrees Celsius",
+      "If the EGT is greater than 170 degrees Celsius",
+      "If the EGT is greater than 190 degrees Celsius"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "Maximum N1(FAN MARK1) ?",
+    "answer": "98.1",
+    "wrong_answers": [
+      "99.1",
+      "96.1",
+      "108.1"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "Can the flight crew simultaneously use engine bleed supply and external pneumatic power for engine start",
+    "answer": "NO",
+    "wrong_answers": [
+      "Yes, only in abnormal situations",
+      "Yes, only during winter",
+      "Yes, there is not limitation"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "When does the flight crew perform a dry crank",
+    "answer": "After any time manual start is unsuccessful",
+    "wrong_answers": [
+      "After anytime manual start is successful",
+      "Any time start is aborted",
+      "After start valve manual operations"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "Can the flight crew continue the fight until the end if the EGT over limit triggers",
+    "answer": "Normal operation may be resumed until the end of the flight if the over limit does not persist",
+    "wrong_answers": [
+      "The crew must initiate a diversion",
+      "The crew must continue the flight",
+      "It is not allowed"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "The Auto thrust may be used with or without AP/FD in selected or managed Speed /Mach",
+    "answer": "TRUE",
+    "wrong_answers": [
+      "FALSE",
+      "nan",
+      "nan"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "A/THR soft mode",
+    "answer": "Both B and C are correct answers",
+    "wrong_answers": [
+      "Is available in ALT CRZ mode and reduces the thrust variation when A/THR is in SPEED/MACH",
+      "Is available only in clean configuration and when AP is engaged. A/C is above FL180 and the SPEED /MACH target is above green dot",
+      "Is available in ALT, ALT CST and ALT CRZ or DES mode and reduces the thrust variation when A/THR is in SPEED /MACH"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "What is the maximum time limit for TOGA in case of engine failure?",
+    "answer": "10 min",
+    "wrong_answers": [
+      "13 min",
+      "5 min",
+      "15 min"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "What could happen if you lose ENG1(2) FADEC totally?",
+    "answer": "The engine is automatically shutdown",
+    "wrong_answers": [
+      "Autothrust control is lost",
+      "AP is lost for the rest of the flight",
+      "Nothing will happen"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "On the THRUST GAUGE the upper position of the gray sector indicates",
+    "answer": "TOGA thrust",
+    "wrong_answers": [
+      "Available thrust",
+      "MCT",
+      "100% THR"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "To initiate a Quick relight, the flight crew must",
+    "answer": "Set the start selector to NORM and the ENG master lever to ON then set it to OFF and back to ON within 40s",
+    "wrong_answers": [
+      "Set the start selector to IGN START and the ENG master lever to ON then set it to OFF and back to ON every 30s only when above FL 250 and when APU bleed is not available",
+      "Set the start selector to ING START, FADEC auto restore cycle repeats automatically every 30 sec",
+      "Set the start selector to IGN START and the ENG master lever to ON then set it to OFF and back to ON every 30s"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "What is the recommended starter air supply pressure when using air start unit",
+    "answer": "25 PSI when the start valve is open",
+    "wrong_answers": [
+      "20 PSI when the start valve is open",
+      "35 PSI when the start valve is open",
+      "35 PSI when the start valve is open"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "The engine thrust is always limited by the thrust lever position with or without A/THR, except when",
+    "answer": "A.FLOOR protection is active",
+    "wrong_answers": [
+      "The aircraft is in Electrical Emergency Configuration",
+      "Aircraft speed is above .55 and OVER THURST protection is active",
+      "Aircraft speed exceeds VMAX +4"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "How does the flight crew check the reverse deployment after touchdown",
+    "answer": "Check that the ECAM ED displays the expected reverser deployment",
+    "wrong_answers": [
+      "Check that the ECAM SD displays (REV green)",
+      "Check that the ECAM E/WD displays (REV blue)",
+      "Check that the ECAM E/WD displays (REV red)"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "When is the FADEC self powered by its own alternator",
+    "answer": "When N3 is above 8 % ",
+    "wrong_answers": [
+      "When N3 is above 10 %",
+      "After associated engine is started with AVAIL indication",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "How does the FADEC increase the engine protection in adverse weather conditions",
+    "answer": "Automatically turns on both igniters, and defines the minimum HP compressor delivery temperature required to maintain combustor stability ",
+    "wrong_answers": [
+      "Automatically turns on both igniters and increase engine idle parameters.",
+      "Automatically turns on both igniters and engine anti-ice on",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "When is the approach idle setting selected by the EIF",
+    "answer": "In flight with flaps lever set to 2, 3 or FULL and landing gear is extended ",
+    "wrong_answers": [
+      "In flight with flap lever set to 0 or 1, and landing gear is retracted",
+      "In flight with flap lever set to 3 or FULL, and landing gear is extended",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ENGINES",
+    "multi_choice": true,
+    "question": "How much takeoff thrust can each engine provide at ISA sea level conditions",
+    "answer": "84000 LB",
+    "wrong_answers": [
+      "80000 LB",
+      "74000 LB",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ENGINES ",
+    "multi_choice": true,
+    "question": "What is the TREF equal to for pressure altitudes below 2000 ft",
+    "answer": "ISA + 15",
+    "wrong_answers": [
+      "ISA + 60 ",
+      "ISA + 17",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ENGINES ",
+    "multi_choice": true,
+    "question": "In flight, when will the FADEC open the engine start valve to start the engine",
+    "answer": "If N3 is below 6% or airspeed is below 250 kts ",
+    "wrong_answers": [
+      "If N3 is below 30% or airspeed is below 200 kts ",
+      "If N3 is below 10% or airspeed is below 300 kts ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ENGINES ",
+    "multi_choice": true,
+    "question": "What engine parameter appears on the ED if FADEC manages the engine thrust in degraded mode",
+    "answer": "N1",
+    "wrong_answers": [
+      "Thrust (THR) ",
+      "EPR",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FIRE AND SMOKE PROTECTION ",
+    "multi_choice": true,
+    "question": "How do you arm the squibs on the engine fire extinguishers",
+    "answer": "By pressing the associated ENG FIRE pb-sw",
+    "wrong_answers": [
+      "By pressing the associated AGENT 1(2) pb",
+      "It will automatically arm when an engine fire is detected",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FIRE AND SMOKE PROTECTION ",
+    "multi_choice": true,
+    "question": "The SMOKE AVNCS SMOKE alert is triggered if",
+    "answer": "One detector detects smoke and other is failed in the same circuit ",
+    "wrong_answers": [
+      "Any one of the detectors detect smoke",
+      "If both detectors fail within 5 sec of eachtother in the same circuit",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FIRE AND SMOKE PROTECTION ",
+    "multi_choice": true,
+    "question": "In case of SMOKE FWD CARGO SMOKE ECAM alert",
+    "answer": "The isolation valves close automatically, extraction fan stops ",
+    "wrong_answers": [
+      "The isolation valve must be closed manually bt pressing the ISOL VALVE pb switch",
+      "The isolation valves close automatically, extraction fan continues to operate to extract the smoke through the WFD outflow valve",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FIRE AND SMOKE PROTECTION ",
+    "multi_choice": true,
+    "question": "Which of the following scenarios will trigger an ENG FIRE alert",
+    "answer": "LOOP A and LOOP B both detect a fault at an interval of 3 secs ",
+    "wrong_answers": [
+      "LOOP A detects a fire, LOOP B doesn't detect a fire or a fault ",
+      "LOOP A and LOOP B both detects a fault at an interval of 10 secs ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT CONTROLS ",
+    "multi_choice": true,
+    "question": "After recovery from Abnormal Altitude Law",
+    "answer": "Alternate law engages with pitch normal law, roll normal law, and yaw normal law for the remainder of the flight.",
+    "wrong_answers": [
+      "Flight control system remains in Direct Law, all 3 PRIMs and SECs must be reset one at the time",
+      "Flight control system remains in Direct Law, all 3 SECs must be reset on at a time",
+      "Flight control system remains in direct law, all 3 PRIMs must be reset one at a time"
+    ]
+  },
+  {
+    "subjects": "FLIGHT CONTROLS ",
+    "multi_choice": true,
+    "question": "The outer aileron deflects",
+    "answer": "Only when the IAS is below 250 kts",
+    "wrong_answers": [
+      "At all times together with the inner aileron ",
+      "Above 250 kts or Mach 0.55",
+      "In Normal law and when IAS is above 235 kts "
+    ]
+  },
+  {
+    "subjects": "FLIGHT CONTROLS ",
+    "multi_choice": true,
+    "question": "The Electro Hydrostatic Actuator are",
+    "answer": "Powered by one Electric System",
+    "wrong_answers": [
+      "Using RAT to locally generate their Hydraulic pressure in emergency",
+      "Powered by both yellow and green hydraulic systems in emergency",
+      "Powered by one electric or one hydraulic system"
+    ]
+  },
+  {
+    "subjects": "FLIGHT CONTROLS ",
+    "multi_choice": true,
+    "question": "When does the Automatic Extension System activate",
+    "answer": "When aircraft speed goes below 203 kts and if still in CONF 1 ",
+    "wrong_answers": [
+      "When aircraft speed goes below 210 kts and if still in CONF 1 ",
+      "When aircraft speed goes below 196 kts and if still in CONF 1 ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT CONTROLS ",
+    "multi_choice": true,
+    "question": "On landing, when will the ground spoilers automatically extend if not previously armed",
+    "answer": "When reverses are selected ",
+    "wrong_answers": [
+      "When the autobrake is activated or manual braking is applied",
+      "When at least one landing gear is on the ground",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT CONTROLS ",
+    "multi_choice": true,
+    "question": "In the case of failure of both hydraulic systems, is movement of both inner and outer flaps still available",
+    "answer": "Only the outer flaps can be moved through the ADGBs electric motors ",
+    "wrong_answers": [
+      "Only the inner flaps can be moved through the ADGBs electric motors ",
+      "Yes, through the ADGB electric motors",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT CONTROLS ",
+    "multi_choice": true,
+    "question": "If extended, when will the speedbrakes automatically retract",
+    "answer": "When alpha protection is activated or when a go-around is initiated ",
+    "wrong_answers": [
+      "When a reactive windshear is triggered",
+      "When a stall warning is triggered",
+      "On take off when take off power is set of when a go-around is initiated"
+    ]
+  },
+  {
+    "subjects": "FLIGHT CONTROLS ",
+    "multi_choice": true,
+    "question": "What are EHAs/EHBAs",
+    "answer": "Electro-hydraulic actuators that use electrical power to locally generate their own hydraulic pressure to move a flight control surface ",
+    "wrong_answers": [
+      "Electro-hydraulic actuators that use electrical power to locally generate their own hydraulic pressure to move a flight control surface when all flight computers are lost",
+      "Electro-hydraulic actuators that use electrical power to locally generate their own hydraulic pressure and are active only when G and Y Hydraulic systems are lost",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT CONTROLS ",
+    "multi_choice": true,
+    "question": "When is the USE MAN PITCH TRIM message displayed on the FMA",
+    "answer": "When in direct law",
+    "wrong_answers": [
+      "When in alternate or direct law ",
+      "When stabiliser is failed ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT CONTROLS ",
+    "multi_choice": true,
+    "question": "When is pitch trim automatically set for takeoff",
+    "answer": "When the first engine is started or when flight crew arms the ground spoilers ",
+    "wrong_answers": [
+      "When normal hydraulic power is available ",
+      "When both engines are started or when flight crew arms the ground spoilers ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT ENVELOPE ",
+    "multi_choice": true,
+    "question": "Which statement is true about VMCL",
+    "answer": "VMCL is not computed and it not displayed to flight crew however it limits the VLS",
+    "wrong_answers": [
+      "VMCL is not displayed to the flight crew but constantly changes with bank angle",
+      "In clean configuration, VMCL equals VLS",
+      "VLS limits the VMCL"
+    ]
+  },
+  {
+    "subjects": "FLIGHT ENVELOPE ",
+    "multi_choice": true,
+    "question": "In terms of HSP, what happens when the speed reaches VMO +5 kts with a positive acceleration or when speed reaches VMO +10 kts",
+    "answer": "A/THR automatically engages and targets airspeed bug indicated on PFD or VMO/MMO whichever is lower, speedbrakes fully extend automatically ",
+    "wrong_answers": [
+      "The AP automatically engages and command a nose up attitude, A/THR automatically enages and targets VMO/MMO",
+      "The AP disengages, A/THS enages and targets VMO/MMO, speedbrake fully extend automatically.",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT ENVELOPE ",
+    "multi_choice": true,
+    "question": "When is the pitch attitude aural alert available",
+    "answer": "During a manual landing below 50 ft RA when pitch attitude is above 10.5 degrees, tail strike limit also appears on the PFD at landing ",
+    "wrong_answers": [
+      "During rotation if pitch attitude is above 25 degress nose up, tail strike limit also appears on the PFD at take off",
+      "In flight when the pitch attitude is above 30 degrees nose up and 15 degrees nose down",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT ENVELOPE ",
+    "multi_choice": true,
+    "question": "When is the low energy aural alert triggered",
+    "answer": "When speed is between VLS and V alpha prot ",
+    "wrong_answers": [
+      "When speed is between V alpha prot and V alpha max",
+      "On approach when speed goes below VAPP",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT ENVELOPE ",
+    "multi_choice": true,
+    "question": "What is VREF",
+    "answer": "Equals to VLS CONF FULL and is used to compute landing performance with failure(s)",
+    "wrong_answers": [
+      "Equals to VLS CONF 3 and is used to compute landing performance with failure(s) that restricts landing with CONF 3 only ",
+      "Equals to VAPP CONF FULL and is used to compute landing performance with failure(s) ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT ENVELOPE ",
+    "multi_choice": true,
+    "question": "What is VLS",
+    "answer": "Lowest selectable speed the auto-thrust limits to and provides a margin against stall at low speeds and towards buffet at high Mach number ",
+    "wrong_answers": [
+      "Lowest selectable speed the aircraft can fly before angle of attack protection becomes active ",
+      "Lowest selectable speed on the FCU when in flight and provides a margin against stall at low speeds",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT ENVELOPE ",
+    "multi_choice": true,
+    "question": "What is the load factor automatically limited to",
+    "answer": "2.5g to -1g when slats are retracted, 2g to 0g when slats are extended",
+    "wrong_answers": [
+      "2.5g to -1g when flaps are retracted, 2g to 0g when flaps are extended ",
+      "2.5g to 0g when slats are retracted, 2g to 0g when slats are extended ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "\u201cFD 2\u201d FMA message means",
+    "answer": "FD1 and FD2 are engaged but the FD bars are not displayed on FD1 and air data selector is set to the CAPT ON BACKUP position",
+    "wrong_answers": [
+      "Only FD2 is engaged and the FD bars are displayed on both FD1 and FD2",
+      "FD1 and FD2 are engaged but the FD bars are not displayed on FD1 and air data selector is set to the F/O ON BACKUP position",
+      "Only FD2 is engaged and the FD bars are not displayed on either FDs"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "AP automatically disengages if",
+    "answer": "All of the above",
+    "wrong_answers": [
+      "If during a rejected landing, aircraft touches the ground before flight crew selects TOGA",
+      "Lateral deviation is no longer available on both MMRs, when LOC is engaged and the aircraft is above 200\u2019",
+      "The aircraft is on the ground and the first engine starts"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "For approaches without auto land when will \"DISCONNECT AP FOR LDG\" pulses on FMA?",
+    "answer": "At 150 ft the DISCONNECT AP FOR LANDING message appears if the landing capability is APPR1",
+    "wrong_answers": [
+      "At 200 ft the DISCONNECT AP FOR LANDING message appears if the landing capability is APPR1",
+      "At 500 ft the DISCONNECT AP FOR LANDING message appears if the landing capability is APPR1",
+      " At MINIMAi the DISCONNECT AP FOR LANDING message appears if the landing capability is APPR1"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "\u201c- FD2\u201d FMA message means",
+    "answer": "FD1 and FD2 are engaged but the FD bars are not displayed on FD1 and Air Data Selector is set on the CAPT ON BACKUP position",
+    "wrong_answers": [
+      "Only FD2 is engaged and the FD are displayed on both FD1 and FD2",
+      "FD1 and FD2 are engaged but the FD bars are not displayed on FD1 and Air Data Selector is set on the F/O ON BACKUP position",
+      "Only FD2 is engaged and the FD bars are not displayed on either FDs "
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "Which one of the following \u201capproach and landing capabilities\u201d is/are fail-passive auto land",
+    "answer": "LAND 3 SINGLE \u2013 LAND 2 \u2013 LAND 1",
+    "wrong_answers": [
+      "LAND 3 DUAL \u2013 LAND 3 SINGLE",
+      "LAND 3 SINGLE",
+      "LAND 3 DUAL only"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "In AP/FD TCAS Mode when \u201cCLEAR OF CONFLICT\u201d aural alert sounds. TCAS MODE automatically disengages and",
+    "answer": "ALT or ALT CRZ arms and the AP/FD provide guidance toward the previous AFS CP selected altitude",
+    "wrong_answers": [
+      "The AP/FD reverts to basic a mode (HDG/VS)",
+      "The AP/FD levels the aircraft at the existing altitude, further tuning of AFS CP must be made by the flight crew",
+      "The AP/FD maintains the same rate of climb or descent according to RA"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "During Go around, if GA TRK engages and NAV mode arms:",
+    "answer": "NAV automatically engages as soon as the aircraft reaches the capture zone of the flight plan active leg.",
+    "wrong_answers": [
+      "NAV automatically engages after overflying runway end.",
+      "NAV will not engage unless flight crew pushes the HDG/TRK knob.",
+      "Both b) and c) are correct answers."
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "The Runway Track (RWY TRK) mode engages",
+    "answer": "At 50 Ft RA if NAV is not engaged",
+    "wrong_answers": [
+      "If the flight crew pulls the HDG/TRK knob",
+      "5 seconds after lift-off and remains engaged as long as SRS mode is not available",
+      "At lift-off if NAV not either armed or engages"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "What is the maximum acceptable difference between the MFD and the charted final lateral track for the approach using FLS guidance",
+    "answer": "1\u00b0",
+    "wrong_answers": [
+      "3\u00b0",
+      "No limit",
+      "2\u00b0"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "The aircraft is in cruise, selected MACH target is MACH 0.80",
+    "answer": "The short-term managed speed is the ECON Mach",
+    "wrong_answers": [
+      "The short-term managed speed is the LRC Mach only if remaining time to TOD is more than 5 minutes",
+      "The short-term managed speed is not available",
+      "The short\u2013term managed speed is the LRC Mach"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "When will 'NAV LS TUNING DISAGREE' warning trigger?",
+    "answer": "There is a discrepancy between both MMRs.",
+    "wrong_answers": [
+      "This alert triggers when GPS 1 and GPS 2 fail",
+      "This alert triggers when the tuning of ILS 1 and ILS 2 are different.",
+      "This alert triggers when PFD on BKUP."
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE",
+    "multi_choice": true,
+    "question": "Velocity Vector",
+    "answer": "Must not be used as a guidance order. It is only an indication of the aircraft trajectory",
+    "wrong_answers": [
+      "May always be used as guidance during flight",
+      "Provides aircraft trajectory indication in compare to the ground reference and commands F/Ds in both pitch and roll",
+      "Provide direct order to F/D and A/P during approach"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE ",
+    "multi_choice": false,
+    "question": "What is the managed speed target when SRS TO mode is engaged and the aircraft is airborne",
+    "answer": "V2 + 10 kts, however the magenta triangle appears on the V2 value on the PFDs ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE ",
+    "multi_choice": false,
+    "question": "If not already engaged, when do the FDs automatically engage in flight",
+    "answer": "During a go-around, or thrust levers set to TOGA or FLEX during takeoff, or AP/FD TCAS mode engages upon a RA or EMER DES mode engages",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE ",
+    "multi_choice": false,
+    "question": "What is the meaning of the AP IN PROT message on the FMA",
+    "answer": "AP is in protection mode, the aircraft is in the protected flight envelope and the flight control law of the flight envelope protection has taken over the autopilot ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE ",
+    "multi_choice": false,
+    "question": "What is the Ground Speed Mini value equal to",
+    "answer": "VAPP - tower headwind component ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE ",
+    "multi_choice": false,
+    "question": "When will the AP/FD TCAS mode engage",
+    "answer": "When a RA is triggered, FDs will also automatically engage ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE ",
+    "multi_choice": true,
+    "question": "What is the managed speed target when SRS TO mode is engaged, and one engine is out",
+    "answer": "Memorised airspeed target at engine out detection limited by V2 and V2 + 15 kts ",
+    "wrong_answers": [
+      "Memorised airspeed target at engine out detection limited by VLS and VLS + 15 kts ",
+      "Memorised airspeed target at engine out detection limited by V2 and VLS + 25 kts ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE ",
+    "multi_choice": true,
+    "question": "If no AP/FD is engaged, when the A/THR engages, what mode will it be in",
+    "answer": "SPEED or MACH ",
+    "wrong_answers": [
+      "Depends on the thrust lever position ",
+      "SRS, THR QB, SPEED, THR DES or THR IDLE depending on the flight phase ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT GUIDANCE ",
+    "multi_choice": true,
+    "question": "What is the meaning of the AUTO EMER DES IN XX S countdown message on the PFD and HUD",
+    "answer": "Indicates that EMER DES mode will automatically engage at the end of the 15s countdown",
+    "wrong_answers": [
+      "Indicates to the flight crew that the cabin altitude is predicted to increase above 14000 ft in the next 15 secs and to arm the AUTO EMER DESCENT function ",
+      "Indicates to the flight crew that an emergency descent must be initiated within 1 5s as the cabin altitude is predicted to go above 14000 ft",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": false,
+    "question": "Why can the operating speeds on the PFD differ from the ones displayed on FMS TO PERF panel",
+    "answer": "The FMS uses estimated weight and CG while the PRIMs use the current weight and CG to compute the operating speeds",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": false,
+    "question": "What is the crossover altitude in MANAGED SPEED/MACH profile",
+    "answer": "The crossover altitude is the altitude at which the optimized speed and the optimized Mach correspond to the same TAS",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "Transfer to mailbox option is available on secondary flight plans only, it enables:",
+    "answer": "The flight crew to send a secondary flight plan with an associated free text to the ATC mailbox",
+    "wrong_answers": [
+      "The flight crew to send a secondary flight plan to the ATC mailbox",
+      "The flight crew to send only frees text messages to the ATC mailbox",
+      "The flight crew to transfer a secondary flight plan to the SEC 3 INIT page first and then send it to ATC mailbox."
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "On the HOLD PAGE, the revised waypoint of the flight plan is",
+    "answer": "The revised waypoint of the flight plan is referred to as the holding fix. The holding fix is the start and end waypoint of the holding pattern.",
+    "wrong_answers": [
+      "nan",
+      "The waypoint at 10000\u2019 AAL of the destination aerodrome defined in the secondary flight plan",
+      "The last waypoint od the DES flight plan"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "When INSER HISTORY WIND SELECTED",
+    "answer": "The history winds from the descend of the previous flight for the CRZ FL, FL 250, FL 150, FL 050 will be considered as the climb winds for the next flight",
+    "wrong_answers": [
+      "The average history winds of the previous flight will be considered as the climb wind for the next flight",
+      "The history winds for the CRZ FL, FL 250, FL 150, FL 050 will be considered as the climb winds for the next flight if next flight is less than 2 hours from DONE phase",
+      "The average history winds of the previous flight will be considered as the climb winds for the next flight is the next flight is less than 2 hours from DONE phase"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "An ALT CONSTRAINT between two specified altitudes (ALTITUDE WINDOW)",
+    "answer": "Can only be a value from the navigation database. The flight crew cannot manually enter or change this constraint.",
+    "wrong_answers": [
+      "Can be manually created by flight crew",
+      "Appears only during TO and CIMB segment (SID)",
+      "Both B and C are correct"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "The FMS message \u201cF-G/S BASED ON ISA\u201d in Amber means",
+    "answer": "The computation of the F-G/S deviation is based on ISA temperature at destination. Flight crew did not enter the temperature at destination (OAT) on the APPR panel of the PERF page",
+    "wrong_answers": [
+      "\u201cLOC only\u201d Approach selected by the flight crew and F-G/S deviation is not available",
+      "The computation of the F-G/S deviation is based on ISA temperature at destination regardless of inserted OAT in APPR panel of the PERF page",
+      "Fully managed FMS approach is not available for the selected approach"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "In Vertical Revision Page (ACTIVE/FPLN/VERT REV/STEP ALTs), when \"INSERT AS OPT\" Button for OPTIMUM STEP POINT is clicked:",
+    "answer": "The optimum step point will be inserted in the temporary flight plan.",
+    "wrong_answers": [
+      "Predictions for assigned altitude will be displayed adjacent to the button in VERT REV menu only",
+      "The optimum step point will be inserted in the ACTIVE flight plan.",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "The Continuous Descent Approach (CDA) computation results",
+    "answer": "VAPP at 1000 ft AGL in landing configuration",
+    "wrong_answers": [
+      "F SPEED at 1000 ft AGL",
+      "F SPEED over FAF",
+      "VAPP over FAF regardless of selected approach in FMS"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "Which function monitors flight crew inserted data on the FMS pages",
+    "answer": "Takeoff Surveillance Function (TOS)",
+    "wrong_answers": [
+      "AFS backup Function",
+      "Flight Warning Function (TWF)",
+      "Airport Navigation Function (ANF)"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "When in DUAL mode. On each side the FMS can tune",
+    "answer": "1 VORs, 4 DMEs, and 1 Landing System",
+    "wrong_answers": [
+      "1 VORs, 2 DMEs, and 2 Landing System",
+      "2 VORs, 2 DMEs, and 2 Landing System",
+      "2 VORs, 4 DMEs, and 1 Landing System"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "In the NAVAID page, the SELECTED FLS button is displayed instead of the DESELECT FLS button, but is not available if",
+    "answer": "The selected approach can be flow with FLS function and FLS function is not available or the approach that the flight crew selected is RNAV (RNP) approach",
+    "wrong_answers": [
+      "The approach that the flight crew selected is GNSS (GPS) approach",
+      "The approach that the flight crew selected is VOR/NDB approach",
+      "All of the above"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "When Engine Out (EO) mode is activated:",
+    "answer": "As soon as the engine is recovered, the FMS automatically deactivates the (EO) mode.",
+    "wrong_answers": [
+      "The flight crew may manually deactivate and activate the (EO) mode again.",
+      "The FMS still maintains all the \"altitude steps\" if they are within predicted LRC EO MAX FL capability.",
+      "The flight crew may manually deactivate the (EO) mode only when engine is recovered."
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "Changing and removing the alternate airport from INIT page",
+    "answer": "Does not create temporary flight plan",
+    "wrong_answers": [
+      "Is only available on the ground",
+      "Will generate a temporary flight plan",
+      "Is not possible"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "The FMS automatically cancels the WHAT IF scenario in the secondary flight plan, if one or the following occurs",
+    "answer": "All of the above",
+    "wrong_answers": [
+      "The flight crew uses the SWAPT function",
+      "The revised waypoint at which the FMS simulated the WHAT IF event was not P.POS and the aircraft sequences this revised waypoint",
+      "The EO mode becomes active"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "If the barometric reference is changed from QNH to STD a down path altitude constraint unit",
+    "answer": "Remains as it was previously defined (FEET or FL)",
+    "wrong_answers": [
+      "Changes according to the current setting (FEET or FL)",
+      "Always remains as feet",
+      "Always remains as feet u tin A/C climbs above Trans Altitude"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": false,
+    "question": "Minimum value the autopilot can be used after a manual go-around",
+    "answer": "100 ft AGL ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": false,
+    "question": "Are the FLS beam and F-G/S deviations temperature corrected",
+    "answer": "Yes, using the temperature at destination entered on the APPR panel of the PERF page or ISA temperature at destination is no temperature is entered",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": false,
+    "question": "What is the OPT FL computation based on",
+    "answer": "Aircraft GW, FMS speed mode, CI if FMS Speed mode is ECON, temp and winds, ENG & WING anti ice are off and a minimum cruise time of 5mins at the OPT FL ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "What is the AUTO-DERATE function",
+    "answer": "It automatically reduces thrust during climb and the FMS computes the appropriate reduced level of the climb thrust ",
+    "wrong_answers": [
+      "It automatically reduces thrust during take off and the FMS computes the appropriate reduced level of the take off thrust ",
+      "It automatically reduces thrust during a go around and the FMS computes the appropriate reduced level of thrust to maintain at least a vertical speed of 2000ft/min",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "When and where is the drift-down altitude displayed",
+    "answer": "When EO mode is active, during the CRZ phase and is displayed in the CRZ panel of the PERF page ",
+    "wrong_answers": [
+      "When EO mode is active, during the CRZ or DES phase and is displayed in the CRZ panel of the PERF page ",
+      "During the CRZ phase and is displayed in the CRZ panel of the PERF page ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "What is Vapp",
+    "answer": "Final approach speed. It is the managed speed target when in approach configuration (CONF 3 or FULL) ",
+    "wrong_answers": [
+      "Final approach speed. It is the managed speed target when on final approach at MDA or DA +100 ft ",
+      "Final approach speed. It is the managed speed target when on final approach below 1000 ft ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FLIGHT MANAGEMENT SYSTEM",
+    "multi_choice": true,
+    "question": "Minimum value the autopilot can be used in approach with F-G/S mode",
+    "answer": "200 ft AGL",
+    "wrong_answers": [
+      "250 ft AGL ",
+      "160 ft AGL ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "What is the MAX refuel time on battery ",
+    "answer": "10 Min ",
+    "wrong_answers": [
+      "20 Min",
+      "30 Min ",
+      "40 min"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "What is the triggering condition of FUEL L(R) WING TK TEMP HI ",
+    "answer": "The fuel temperature in the left (right) wing tank is above 50deg C ",
+    "wrong_answers": [
+      "The fuel temperature in the left (right) wing tank is above 35o C ",
+      "The fuel temperature in the left (right) wing tank is above 40o C ",
+      "The fuel temperature in the left (right) wing tank is above 25o C"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "The APU can be fed by",
+    "answer": "The APU feed pump that operates automatically if required ",
+    "wrong_answers": [
+      "The right center tank pump provided that both feed valves are closed ",
+      "The APU feed pump only if the cross feed valves are closed",
+      "The APU feed pump in case both cross feed valve failed open"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "The capacity on each collector cell in each wing tank is approximately ",
+    "answer": "1800 Kg ",
+    "wrong_answers": [
+      "1200 Kg",
+      "1000 Kg ",
+      "900 Kg"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "On A350 fuel gallery, Two Cross feed valves enable ",
+    "answer": "Any engine to be fed from any fuel pump ",
+    "wrong_answers": [
+      "Manual transfer of the fuel in the ground only",
+      "Fuel transfer from wing to center tank ",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "\u201cENG 1 (2) FUEL LEAK SUSPECTED\u201d for large fuel leaks alert triggers when",
+    "answer": "The highest fuel flow is greater than 3.8 times of the other fuel during 4 min ",
+    "wrong_answers": [
+      "The highest fuel flow is greater than 1.5 times of the other fuel flow",
+      "The difference between (FOB+FUSED) and Block Fuel becomes -2 tones ",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "The Fuel Tank Inerting System (FTIS) is designated to provide ",
+    "answer": "Protection against fuel tank fire and explosion ",
+    "wrong_answers": [
+      "Protection against fuel leak",
+      "Protection against water scavenging",
+      "Protection against fuel starvation"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "The Fuel Tank Inerting System (FTIS)",
+    "answer": "Reduces oxygen concentration to 12% and discharges oxygen enriched air overboard",
+    "wrong_answers": [
+      "Pressurized the fuel tank and will provide a positive tank pressure at all time ",
+      "Is installed in the center tank and wing tanks",
+      "Protects the fuel gallery against reducing the amount of nitrogen which is trapped in the tank"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "Fuel that enters surge tank: ",
+    "answer": "Returns to the wing tank via a dedicated non-return valve",
+    "wrong_answers": [
+      "Will be purged overboard",
+      "Must be drained by Maintenance after the flight",
+      "May be used when the quantity in wing tank drops below 3850KG "
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "Is a manual transfer of fuel available between tanks",
+    "answer": "Yes, only from any wing tank to the center tank ",
+    "wrong_answers": [
+      "Only from center tank to wing tank",
+      "Yes, only from one wing tank to the other wing tank for fuel balancing",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "When will the fuel jettison stop if no jettison final gross weight is entered in the FMS FUEL&LOAD Page",
+    "answer": "FOB reaches 10000 kg ",
+    "wrong_answers": [
+      "FOB reaches 10000 kg ",
+      "FOB reaches a threshold based on the distance to destination",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "Which pumps remain operative in the event an electrical emergency config",
+    "answer": "Main pump of each wing ",
+    "wrong_answers": [
+      "Left main or center tank pump if center tanks contains fuel",
+      "Standby pump of each wing",
+      "-"
+    ]
+  },
+  {
+    "subjects": "FUEL",
+    "multi_choice": true,
+    "question": "Where are the collector cells located and capacity",
+    "answer": "One in each Wing Tank, capacity of approximately 1800 kg",
+    "wrong_answers": [
+      "One in each Wing Tank, capacity of approximately 1100 kg ",
+      "Two in the Centre Tank, capacity of approximately 1800 kg ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "HYDRAULIC SYSTEM ",
+    "multi_choice": true,
+    "question": "Which statement is correct ",
+    "answer": "Electrical Hydraulic Pumps are powered by 230V AC and requires constant frequency of 400 HZ. Therefore both electrical pumps become inoperative as sson as one engine is started.",
+    "wrong_answers": [
+      "Electrical Hydraulic Pumps are inhibited in the air but are available after engine start and during ground operation ",
+      "Electrical Hydraulic Pumps are powered by 115 V AC in the air and 230V AC on the ground ",
+      "Electrical Hydraulic pumps may be powered by APU or ENGINE generators as the pump requires 230V AC "
+    ]
+  },
+  {
+    "subjects": "HYDRAULIC SYSTEM ",
+    "multi_choice": true,
+    "question": "What is the normal operating pressure of each hydraulic system",
+    "answer": "Approximately 5000 PSI ",
+    "wrong_answers": [
+      "Approximately 3000 PSI ",
+      "Approximately 5000 PSI and 3000 PSI for the EHA and EHBA",
+      "-"
+    ]
+  },
+  {
+    "subjects": "HYDRAULIC SYSTEM ",
+    "multi_choice": true,
+    "question": "Where are the hydraulic heat exchangers located",
+    "answer": "One in each wing fuel tank ",
+    "wrong_answers": [
+      "In the center fuel tank",
+      "One in each engine",
+      "-"
+    ]
+  },
+  {
+    "subjects": "HYDRAULIC SYSTEM ",
+    "multi_choice": true,
+    "question": "When happens if abnormal temperature is detected only in the EDP of the affected HYD system",
+    "answer": "Only the affected EDP is automatically depressurised ",
+    "wrong_answers": [
+      "Both EDPs of the affected system are automatically depressurised to avoid further temperature increase in the system",
+      "The affected EDP will continue to operate until flight crew turns it off when directed by ECAM",
+      "-"
+    ]
+  },
+  {
+    "subjects": "HYDRAULIC SYSTEM ",
+    "multi_choice": true,
+    "question": "When can you operate the hydraulic electric pumps",
+    "answer": "On ground when all engines are off ",
+    "wrong_answers": [
+      "Any phase of flight when required or requested by ECAM ",
+      "In flight in the case G or Y HYD has failed and LG and/or Flaps still extended ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "HYDRAULIC SYSTEM ",
+    "multi_choice": true,
+    "question": "When the FSOV is fully closed, can it be opened again in flight",
+    "answer": "No",
+    "wrong_answers": [
+      "Yes, by pressing the associated ENG SUPPLY pb again when OVHT is not displayed",
+      "Yes, it will automatically  open once overheat is no longer displayed",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "Air frame Deicing/Anti-icing procedures on ground, when should the flight crew consider using APU BLEED after fluid spraying",
+    "answer": "At least 5 min after fluid spraying",
+    "wrong_answers": [
+      "At least 2 min after fluid spraying",
+      "At least 20 min after fluid spraying",
+      "At least 3 min after fluid spraying"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "Rain repellent can be used as a windshield washer and to be applied on the windshield",
+    "answer": "FALSE",
+    "wrong_answers": [
+      "TRUE",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "Air frame Deicing/Anti-icing procedures on ground, why should the flight crew consider take off with APU BLEED OFF",
+    "answer": "If the fuselage was sprayed, there is a risk of fluid ingestion by the APU air intake resulting in odors or smoke alerts",
+    "wrong_answers": [
+      "To increase aircraft performance",
+      "To reduce aircraft performance",
+      "Flight crew should always consider APU bleed"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "After take-off when should the flight crew set to ON ENG ANTI ICE pb sw",
+    "answer": "When icing conditions are expected with a TAT at or below 10degC",
+    "wrong_answers": [
+      "When icing conditions are expected with a TAT at 10degC",
+      "When icing conditions are expected with a SAT at or below 10degC",
+      "When icing conditions are expected with a TAT below 10degC"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "When is A-ICE SEVER ICE DETECTED ECAM triggered",
+    "answer": "Severe ice is detected and the wing anti-ice system is off",
+    "wrong_answers": [
+      "Severe ice is detected and the wing anti-ice system is fault",
+      "Severe ice is detected and the engine and wing anti-ice system is off",
+      "Severe ice is detected and the engine anti-ice system is off"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "A-ICE L(R) WINDSHIELD HEATING FAULT may be due to",
+    "answer": "All answers are correct",
+    "wrong_answers": [
+      "A failure of the windshield temperature sensors",
+      "A window overheat",
+      "A short circuit"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "Which probes are heated to prevent ice formation",
+    "answer": "MFPs, all static probes, 4th AOA probe, pitot probes ",
+    "wrong_answers": [
+      "MFPs, all static probes, 4th AOA probe, pitot probe and ice detector probe",
+      "MFPs, all static probes, 4th AOA probe, pitot probe and OAT probes",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "Where does bleed air for engine anti-ice come from",
+    "answer": "3rd stage of the HP compressor ",
+    "wrong_answers": [
+      "2nd stage of IP compressor",
+      "HP turbine",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "What does the ICE NOT DETECTED memo indicate",
+    "answer": "Wing and/or engine anti ice are on and ice detectors have not detected any ice for approximately 2 min.",
+    "wrong_answers": [
+      "Ice not detected on the ice indicators and the ice indocator light is on",
+      "Engine anti ice is on and the ice detectors have not detected any ice for approximately 100 sec",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "Which slats are provided with hot air when wing anti ice is on",
+    "answer": "3, 4 and 5 on each wing ",
+    "wrong_answers": [
+      "4-7 on each wing ",
+      "All slats ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ICE AND RAIN PROTECTION ",
+    "multi_choice": true,
+    "question": "When will the wing anti-ice valves automatically close",
+    "answer": "When SAT is above 30 degrees celsius ",
+    "wrong_answers": [
+      "When SAT is above 10 degrees celsius ",
+      "When SAT is below -40 degrees celsius ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": false,
+    "question": "When in alternate braking mode",
+    "answer": "A/BRK is available, provided that at least one BRAKES CTL is operative and the accumulator pressure is more than 1600 PSI",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": false,
+    "question": "When in emergency braking mode",
+    "answer": "Manual braking is available via the brake pedals, the brake pressure is automatically limited to 1130 PSI and the flight crew can apply braking at least 6 times",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": false,
+    "question": "The HEADING CONTROL FUNCTION (HCF) of steering system",
+    "answer": "Aims to mitigate aircraft veering during taxi when speed is below 50 kts, is inhibited at T.O. and landing, can order a maximum of +/- 3 degree (All of the above).",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "In alternate braking mode, braking performance is degraded as hydraulic power is provided by",
+    "answer": "Both YELLOW and GREEN accumulators ",
+    "wrong_answers": [
+      "YELLOW accumulator only ",
+      "GREEN only",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "In case of loss of braking, why should the crew release the brake pedals when selecting A/SKID to OFF",
+    "answer": "To avoid brutal braking application when the emergency braking mode is activated",
+    "wrong_answers": [
+      "To revert to alternate braking system ",
+      "To depressurize the hydraulic system",
+      "To utilize accumulator pressure "
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "In case of \u201cHYD G +Y SYS PRESS LO\u201d the auto brake mode remains available. ",
+    "answer": "True",
+    "wrong_answers": [
+      "False",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "A350 braking system consist of",
+    "answer": "Four braking systems (NORMAL \u2013 ALTERNATE \u2013 EMERGENCY - PARKING) ",
+    "wrong_answers": [
+      "Three braking systems (NORMAL \u2013 ALTERNATE - EMERGENCY) ",
+      "Three braking systems (NORMAL \u2013 ALTERNATE - PARKING)",
+      "Four braking systems (NORMAL \u2013 ALTERNATE \u2013 EMERGENCY - MANUAL)"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "A bogie Pitch Trimmer",
+    "answer": "Hold each MLG bogie in a correct pitch attitude when the gear is not in contact with the ground",
+    "wrong_answers": [
+      "Hold each MLG bogie in a correct pitch attitude during taxi",
+      "Hold each MLG bogie in a correct pitch attitude during rotation",
+      "Hold each MLG bogie in a correct pitch attitude during gear retraction"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "After performing a Landing Gear selection, when will the PM reply with the selection callout",
+    "answer": "The PM checks the landing gear indication on the PFD to confirm the landing gear operation and replies",
+    "wrong_answers": [
+      "After Landing Gear is fully extended",
+      "After Landing Gear is down and locked ",
+      "Before the PM moves the LG lever"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "During LANDING GEAR ALTERNATE EXTENTION ",
+    "answer": "Two alternate power packs hydraulically support L/G gravity extension. One for the NLG and one for the MLG",
+    "wrong_answers": [
+      "Both NLG and MLG extend by their own EHA",
+      "NLG extends by independent EHA and only MLG extension is by alternate power pack",
+      "One alternate power pack hydraulically supports L/G gravity extension "
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "When will the slats/flaps display show the PARK BRK indication in green ",
+    "answer": "When the parking brake is set to ON and the pressure is effective on brakes ",
+    "wrong_answers": [
+      "When the PARK brake is set OFF",
+      "It will always show green",
+      "It will show green only is both engines are shut down "
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "Following functions are available when the accumulator pressure is more than 1600 psi",
+    "answer": "A/BRK only if at least one BRAKES CTL is operative AND A-SKID",
+    "wrong_answers": [
+      "All normal brake modes function are available above 1600 psi and braking performance is not degraded",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "When will the red arrow on the LG LEVER come on and flash",
+    "answer": "Aircraft below 750 ft RA and one or more LG is not down ",
+    "wrong_answers": [
+      "Aircraft below 500 ft RA and one or more LG is not down ",
+      "Aircraft below 1000 ft RA and one or more LG is not down ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "What powers the MLG during alternate extension",
+    "answer": "Alternate power pack ",
+    "wrong_answers": [
+      "Yellow hydraulic system",
+      "Green hydraulic system",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "Maximum brake temperature for takeoff",
+    "answer": "300 degrees celsius ",
+    "wrong_answers": [
+      "150 degrees celsius ",
+      "300 degrees celsius  or 150 degrees if brake fans are on",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "What supplies power to the NWS",
+    "answer": "Yellow hydraulic system ",
+    "wrong_answers": [
+      "Green hydraulic system ",
+      "Green or yellow. Alternates after every L/G retraction",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "How is braking pressure limited in emergency braking mode",
+    "answer": "Automatically to 1130 PSI",
+    "wrong_answers": [
+      "Automatically to 1600 PSI ",
+      "Manually by the flight crew to 1000 PSI ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "Maximum taxi speed with one or more deflated or damaged tires",
+    "answer": "3 kts ",
+    "wrong_answers": [
+      "7 kts or 3 kts in turns ",
+      "7 kts ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LANDING GEAR ",
+    "multi_choice": true,
+    "question": "When is the BRAKES HOT ECAM alert triggered",
+    "answer": "When one or more brake temperature is higher than 300 degrees celsius ",
+    "wrong_answers": [
+      "When one or more brake temperature is higher than 500 degrees celsius ",
+      "When one or more brake temperature is higher than 150 degrees celsius ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": true,
+    "question": "What are the MAXIMUM SPEEDS WITH LANDING GEAR EXTENDED (VLE) ",
+    "answer": "250 kts / M 0.55 ",
+    "wrong_answers": [
+      "200 kts / M 0.45",
+      "220 kts / M 0.48 ",
+      "280 kts / M 0.67"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": true,
+    "question": "The maximum takeoff and landing altitude is ",
+    "answer": "12500 ft pressure altitude ",
+    "wrong_answers": [
+      "14000' pressure altitude  ",
+      "8000\u2019 pressure altitude ",
+      "10000\u2019 pressure altitude"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": true,
+    "question": "What are the FLIGHT MANUVERING LOAD ACCELERATION LIMITS in clean configuration",
+    "answer": "-1 g + 2.5 g",
+    "wrong_answers": [
+      "0 g + 2 g ",
+      "-1 g + 2 g ",
+      "No limitation as long as the speed is confined below VA "
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": true,
+    "question": "For automatic approach, landing and Rollout, the following maximum wind apply",
+    "answer": "Head wind 40kt and cross wind 25kt",
+    "wrong_answers": [
+      "Head wind 40kt, tail wind 10kt and cross wind 30kt",
+      "Head wind 40kt, tail wind 15kt, if airport pressure is above 8000 ft and cross wind 25kt",
+      "Head wind 40kt, tail wind 15kt, if airport pressure altitude is at or below 8000 ft and cross wind 30 kt"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": false,
+    "question": "Maximum operating speed VMO/MMO",
+    "answer": "340 kts / M 0.89 ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": false,
+    "question": "Maximum wipers operating speed",
+    "answer": "230 kts",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": false,
+    "question": "Maximum pressure altitude",
+    "answer": "43100 ft ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": false,
+    "question": "Maximum speed in CONF FULL",
+    "answer": "186 kts ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": true,
+    "question": "Minimum engine oil quantity",
+    "answer": "13 quarts ",
+    "wrong_answers": [
+      "15 quarts",
+      "10 quarts",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": true,
+    "question": "What is the minimum oil pressure?",
+    "answer": "25 psi",
+    "wrong_answers": [
+      "35 psi",
+      "20 psi",
+      "15 psi"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": true,
+    "question": "Maximum Taxi weight",
+    "answer": "280900 kg (VW010)",
+    "wrong_answers": [
+      "242900 kg ",
+      "280000 kg ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": true,
+    "question": "Maximum crosswind for takeoff and landing on a wet (up to 3mm of water) runway",
+    "answer": "35 kts for takeoff, 40 kts for landing ",
+    "wrong_answers": [
+      "32 kts for takeoff, 45 kts for landing ",
+      "27 kts for takeoff and landing ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": true,
+    "question": "Maximum APU N speed",
+    "answer": "1.06",
+    "wrong_answers": [
+      "1.07",
+      "1.033",
+      "-"
+    ]
+  },
+  {
+    "subjects": "LIMITATIONS",
+    "multi_choice": true,
+    "question": "Dual pack operation is possible up to what altitude when APU bleed is used",
+    "answer": "22500 ft",
+    "wrong_answers": [
+      "17500 ft ",
+      "25000 ft ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "After turning off the ADIRS, why must the flight crew wait at least 10 seconds before turning off the electrical supply",
+    "answer": "In order to ensure that the ADIRS will memorize the latest data",
+    "wrong_answers": [
+      "To extend the life of the ADIRS",
+      "To eliminate excessive drift",
+      "To be able to perform a fast alignment"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "At landing the airport moving map automatically displayed to",
+    "answer": "ARC with 1 or 2 nm range to display the runway ahead of the aircraft",
+    "wrong_answers": [
+      "PLAN 2nm",
+      "Whatever the position of ND range selector and ND mode selector",
+      "ROSE NAV 1nm"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "A complete IR alignment last",
+    "answer": "Between 5 and 17 minutes depending on the aircraft latitude",
+    "wrong_answers": [
+      "10 minutes but remaining time on POSITION/IRS page initially indicates >7 minutes and then counts down when first 4 minutes elapsed",
+      "13 minutes",
+      "6 minutes"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "The LS source on ISIS cannot display",
+    "answer": "FLS",
+    "wrong_answers": [
+      "GLS",
+      "ILS",
+      "LOC"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "Which statement is correct about AIR DATA SOURCE",
+    "answer": "All of the above",
+    "wrong_answers": [
+      "In case of LOST OF AIRDATA from ADIRS, CDS can also use the EISIS for display on the PFD",
+      "ISIS system is independent from ADIRS. It has its own source of air data parameters. Therefore Aircraft has four fully segregated sources of air data",
+      "ADIRS has three fully segregated sources of air data parameters"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "What is the maximum acceptable difference between the MFD and the charted final vertical path approach using FLS guidance",
+    "answer": "0.1\u00b0",
+    "wrong_answers": [
+      "0.5\u00b0",
+      "No limit",
+      "0.3\u00b0"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "For RNAV (GNSS) approaches with LNAV/VNAV minima, when should the crew discontinue the approach",
+    "answer": "If the F-G/S exceeds \u00bd dot below the F-G/S beam",
+    "wrong_answers": [
+      "If the F-G/S exceeds \u00bd dot above the F-G/S beam",
+      "If the F-G/S exceeds \u00bc dot above the F-G/S beam",
+      "If the F-G/S exceeds \u00bc dot below the F-G/S beam"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "What is the maximum acceptable difference between the MFD and the charted final lateral track for the approach in overlay to conventional radio NAVAID approach using FLS guidance",
+    "answer": "3\u00b0",
+    "wrong_answers": [
+      "1\u00b0",
+      "2\u00b0",
+      "No limit"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "When considering the use of BTV, what is the maximum difference between runway displayed on ND and the LDA publish in the chart",
+    "answer": "35m",
+    "wrong_answers": [
+      "20m",
+      "10m",
+      "15m"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "For associated system control reset how many seconds are required?",
+    "answer": "Three seconds",
+    "wrong_answers": [
+      "Five seconds",
+      "One second",
+      "Four seconds"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "Can the flight crew preform an FLS approach if the FLS capability downgrades to RAW only",
+    "answer": "No",
+    "wrong_answers": [
+      "Only if approves by the authority",
+      "Under commanders discretion",
+      "Yes"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "When must the flight crew perform a complete alignment",
+    "answer": "All of the above",
+    "wrong_answers": [
+      "Change in flight crew",
+      "GPS not available and the flight crew expects long segments is airspaces with poor radio NAVAIDS coverage",
+      "First flight of the day"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "The FOURTH AOA PROBE",
+    "answer": "All of the above",
+    "wrong_answers": [
+      "Is on captain Side (left side of the aircraft)",
+      "Is connected to PRIM 1 and  3",
+      "Provides the flight control computers with the raw measurement of Angle of Attack"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "The VD update may last few seconds longer than the ND update, this is due to",
+    "answer": "The computation of the FMS",
+    "wrong_answers": [
+      "TWAS mode 2 function",
+      "GPS function",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "On VD the yellow AIRCRAFT MOCK-UP may no longer appears on the VD scale if",
+    "answer": "The aircraft descends and the altitude target set on the AFS CP is too high",
+    "wrong_answers": [
+      "Onside RA is inoperative",
+      "The aircraft descends and the altitude target set on the AFS CP is too low",
+      "RA 1+2 are inoperative"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "Flight crew may use the MAP DATA panel to:",
+    "answer": "All of the above",
+    "wrong_answers": [
+      "To center the display of the airport moving map on an interactive item",
+      "Display information of an interactive item of the airport-moving map.",
+      "To add or remove marks on an interactive item."
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "Two OAT probes are installed",
+    "answer": "In the nose landing gear bay",
+    "wrong_answers": [
+      "On each side of the fuselage, below flight deck windows",
+      "On the left side of the fuselage, below CM1\u2019s window",
+      "On the right side of the fuselage, below CM2\u2019s window"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "When are the RAs operative",
+    "answer": "Below 5500 ft AGL ",
+    "wrong_answers": [
+      "Below 2500 ft AGL ",
+      "Below 7000 ft AGL ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "What is the speed accuracy when backup speed is displayed on at least one PFD and all ADRs are switched off",
+    "answer": "10 kts",
+    "wrong_answers": [
+      "5 kts",
+      "Depends on FADEC data, thrust must be abive 40% to ensure accuracy",
+      "-"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "What is the altitude accuracy when backup speed is displayed on at least one PFD",
+    "answer": "500 ft",
+    "wrong_answers": [
+      "250 ft",
+      "1000 ft",
+      "-"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "Backup air data is based on what sources",
+    "answer": "AOA probes and engine parameters ",
+    "wrong_answers": [
+      "AOA probes",
+      "Standby probes",
+      "-"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "What data is available if the IR is in ATT mode",
+    "answer": "Attitude and heading ",
+    "wrong_answers": [
+      "Attitude, roll angle and heading",
+      "Attitude, ground speed and heading",
+      "-"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "Which MMR provides GNSS and LS data to the ISIS",
+    "answer": "MMR 1",
+    "wrong_answers": [
+      "MMR 2 ",
+      "Both MMRs ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "What flight control law will be active if the PRIMs reject all the IRS",
+    "answer": "Alternate Law ",
+    "wrong_answers": [
+      "Direct law ",
+      "Normal law as GNSS data is still available ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "What flight law is triggered if all ADRs are switched off or rejected by the PRIMs and there is a difference between the ISIS and the backup air data",
+    "answer": "Direct law ",
+    "wrong_answers": [
+      "Alternate law",
+      "Normal law if difference is less than 30 kts ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "On VD the magenta area indicates",
+    "answer": "The area where TAWS stops displaying the terrain on ND",
+    "wrong_answers": [
+      "That the heading selected by the flight crew and FMS RNP is equal or less than 1 NM",
+      "That the terrain ahead of aircraft flying track is not reliable",
+      "That the direction of the route differs from the current heading by more than 3 degrees"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "When does the ANF trigger the runway approaching advisory",
+    "answer": "At least 7 secs before the aircraft enters the runway area ",
+    "wrong_answers": [
+      "At least 10 secs before the aircraft enters the runway area ",
+      "At least 70m before the aircraft enters the runway area ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "NAVIGATION",
+    "multi_choice": true,
+    "question": "Which probes provide information to the ISIS",
+    "answer": "Standby static and pitot probes",
+    "wrong_answers": [
+      "MFPs, static probes and standby pitot probe ",
+      "MFPs, standby static and pitot probes ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "OXYGEN",
+    "multi_choice": true,
+    "question": "When are the oxygen masks automatically released in the cabin",
+    "answer": "When cabin altitude is above 13800 ft ",
+    "wrong_answers": [
+      "When cabin altitude is above 14000 ft ",
+      "When cabin altitude is above 9950 ft ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "OXYGEN",
+    "multi_choice": true,
+    "question": "Minimum oxygen pressure to be displayed on the F/O indication if a 3rd Occupant is carried",
+    "answer": "1050 PSI ",
+    "wrong_answers": [
+      "750 PSI ",
+      "1300 PSI ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "OXYGEN",
+    "multi_choice": true,
+    "question": "When is 100% oxygen automatically supplied to the flight crew oxygen masks",
+    "answer": "Cabin altitude above 30000 ft ",
+    "wrong_answers": [
+      "Cabin altitude above 15000 ft ",
+      "Cabin altitude above 25000 ft ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "OXYGEN",
+    "multi_choice": true,
+    "question": "On ground, what does a green oxygen pressure value with an amber half-frame displayed on the DOOR/OXYGEN SD page indicate",
+    "answer": "Pressure is below 1150 PSI",
+    "wrong_answers": [
+      "Pressure is below 350 PSI ",
+      "Pressure is below 750 PSI ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "OXYGEN",
+    "multi_choice": true,
+    "question": "A yellow overboard discharge indicator indicates",
+    "answer": "Overpressure in the cockpit oxygen system ",
+    "wrong_answers": [
+      "Under pressure in the cockpit oxygen system",
+      "Oxygen is currently been discharged overboard",
+      "-"
+    ]
+  },
+  {
+    "subjects": "PRESSURISATION",
+    "multi_choice": true,
+    "question": "What is the cabin altitude at which the pressurization system detects excessive cabin altitude",
+    "answer": "When the cabin altitude exceeds 9550 Ft ",
+    "wrong_answers": [
+      "When the cabin altitude exceeds 10550 Ft ",
+      "When the cabin altitude exceeds 8550 Ft ",
+      "When the cabin altitude exceeds 12550 Ft"
+    ]
+  },
+  {
+    "subjects": "PRESSURISATION",
+    "multi_choice": true,
+    "question": "CAB PRESS CTL MODE RESET is allowed in flight",
+    "answer": "True",
+    "wrong_answers": [
+      "False",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "PRESSURISATION",
+    "multi_choice": true,
+    "question": "CAB PRESS SYS FAULT is triggered when",
+    "answer": "Both the automatic and the manual modes are lost, or both outflow valves are lost",
+    "wrong_answers": [
+      "The semi-automatic control unit (SACU) is lost",
+      "Both the automatic and the manual modes are lost",
+      "Both outflow valves are lost"
+    ]
+  },
+  {
+    "subjects": "PRESSURISATION",
+    "multi_choice": true,
+    "question": "When is the CAB PRESS LDG ELEV FAULT triggered",
+    "answer": "When the OCUs do not receive the landing field elevation from the FMS",
+    "wrong_answers": [
+      "When the OCUs do not receive the landing field elevation from the ADIRS",
+      "When the OCUs do not receive the landing field elevation from the RA",
+      "When the OCUs do not receive the landing field elevation from the CPCS"
+    ]
+  },
+  {
+    "subjects": "PRESSURISATION",
+    "multi_choice": false,
+    "question": "What is the purpose of the overpressure relief valve and when does it open",
+    "answer": "Prevents positive and negative cabin pressure from going too high and automatically opens when the differential pressure is below \u20130.725 PSI or above 10.29 PSI.",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "PRESSURISATION",
+    "multi_choice": false,
+    "question": "What is the purpose of the negative relief valve",
+    "answer": "Prevents the negative cabin pressure from going too high and mechanically opens when differential pressure is less than -0.275 PSI ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "PRESSURISATION",
+    "multi_choice": false,
+    "question": "How can the flight crew manually control the cabin pressure",
+    "answer": "Via the CABIN ALT MODE and CABIN VS MODE pb-sw",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "PRESSURISATION",
+    "multi_choice": false,
+    "question": "In automatic operation, what is the cabin vertical speed limited to during the descent phase",
+    "answer": "-250 ft/min if aircraft is above 25000 ft or -300 ft/min if below 25000 ft",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "PROCEDURES",
+    "multi_choice": false,
+    "question": "When planning to use BTV in FlySmart landing performance, what brake setting do you select",
+    "answer": "Manual",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "PROCEDURES",
+    "multi_choice": true,
+    "question": "What are the consequences if the PF request to unplug the EXT PWR with EXT PWR ON",
+    "answer": "The ground engineer may be severely injured",
+    "wrong_answers": [
+      "APU will shut down",
+      "Engine will shut down",
+      "This is the Standard Operating Procedure"
+    ]
+  },
+  {
+    "subjects": "PROCEDURES",
+    "multi_choice": true,
+    "question": "Starting at what point would the PM call out if excessive lateral deviation occurs during the approach when flying FLS approach?",
+    "answer": "F-LOC: \u00bd dot",
+    "wrong_answers": [
+      "F-LOC: \u00be dot",
+      "Full scale deviation",
+      "F-LOC: 1 dot"
+    ]
+  },
+  {
+    "subjects": "RECORDERS",
+    "multi_choice": true,
+    "question": "What does the DFDR store",
+    "answer": "Flight data parameters of the last 25 hrs of operation",
+    "wrong_answers": [
+      "Flight data parameters of the last 25 flights",
+      "Flight data parameters from the last flight from first engine start to last engine shutdown",
+      "-"
+    ]
+  },
+  {
+    "subjects": "RECORDERS",
+    "multi_choice": true,
+    "question": "What indications are available to indicate that the CVR test is not successful",
+    "answer": "DISPATCH PAGE UPDATE alert with associated RECORDER CVR dispatch message ",
+    "wrong_answers": [
+      "No green light on associated panel",
+      "RECORDER CVR dispatch message",
+      "-"
+    ]
+  },
+  {
+    "subjects": "RECORDERS",
+    "multi_choice": true,
+    "question": "Can audio recordings be erased in flight",
+    "answer": "No",
+    "wrong_answers": [
+      "Yes by pressing the ERASE pb for 2 secs ",
+      "Yes by pressing the ERASE pb for 5 secs ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "RECORDERS",
+    "multi_choice": true,
+    "question": "What does the CVR record",
+    "answer": "Voice communications from and to the cockpit, cockpit sounds, and ATC datalink communications ",
+    "wrong_answers": [
+      "Cockpit sounds and voice communications from and to the cockpit ",
+      "Sounds and voice communications from and to the cockpit and cabin ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "RECORDERS",
+    "multi_choice": true,
+    "question": "When do the recorder system and the CVR automatically come ON",
+    "answer": "As soon as any one of the engine is started ",
+    "wrong_answers": [
+      "On aircraft power up ",
+      "As soon as both engines are started ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ROW ROP - BTV",
+    "multi_choice": true,
+    "question": "What does the Turnaround Information indicate",
+    "answer": "The estimated number of minutes for the brakes to reach 150 degrees celsius after landing ",
+    "wrong_answers": [
+      "The estimated number of seconds for the brakes to reach 150 degrees celsius after landing ",
+      "The estimated number of minutes for the brakes to reach 300 degrees celsius after landing ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ROW ROP - BTV",
+    "multi_choice": true,
+    "question": "What information do the ADIRUs provide the PRIMs for landing distance computation for ROW, ROP, BTV functions",
+    "answer": "Current GS, OAT, Pressure Altitude ",
+    "wrong_answers": [
+      "Current GS, Wind speed and direction, OAT",
+      "Current aircraft speed, wind speed and direction, Pressure Altitude ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ROW ROP - BTV",
+    "multi_choice": true,
+    "question": "When is the aircraft at the ROW/ROP transition point",
+    "answer": "NLG is on ground or ground spoilers extended for 5 secs ",
+    "wrong_answers": [
+      "Below 400 feet AGL",
+      "Below 200 feet aove runway elevation",
+      "-"
+    ]
+  },
+  {
+    "subjects": "ROW ROP - BTV",
+    "multi_choice": true,
+    "question": "When is the ROP automatically armed",
+    "answer": "From ROW/ROP transition point to 30 kts GS after landing",
+    "wrong_answers": [
+      "From below 200 ft of runway elevation to 30 kts GS after landing ",
+      "From ROW/ROP transition point to 10 kts GS after landing ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "When may the flight crew use TA ONLY mode",
+    "answer": "All of the above",
+    "wrong_answers": [
+      "For specific procedures (identified in OM Part C) that may provide resolution advisories that are neither wanted nor appropriate",
+      "In specific airports",
+      "Closely spaced parallel or converging runways"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "The TCAS manages up to 60 intruders but ND displays",
+    "answer": "The 8 most threatening intruders only",
+    "wrong_answers": [
+      "Intruders within the selected range on ND",
+      "The 6 most threatening intruder only",
+      "The 9 closest intruders within 2700 ft"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "What are the consequences if a pilot does not follow an RA",
+    "answer": "Be aware that the intruder may have TCAS and may maneuver in response to a coordinated RA order. Therefore not following an RA order could compromise safe separation",
+    "wrong_answers": [
+      "The threat will disappear",
+      "The AP will disengage",
+      "The intruder RA will modify its command"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "VD displays the terrain in brown",
+    "answer": "The color of the terrain does not change depending on relative terrain proximity, nor during terrain or obstacles alerts",
+    "wrong_answers": [
+      "Only if terrain height is higher the 200\u2019 AGL",
+      "Only if TERR pb selected in EFIS CP ",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "The Terrain Awareness and Warning System (TAWS)",
+    "answer": "Detects terrain collision threats and triggers applicable aural and visual indications",
+    "wrong_answers": [
+      "Display TCAS information",
+      "Display weather information ",
+      "All of the above"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "The obstacle data base includes the location and high of all man made obstacles that are above",
+    "answer": "100 Ft surrounding terrains",
+    "wrong_answers": [
+      "200 ft surrounding terrain",
+      "5 nm surrounding terrains",
+      "100 ft surrounding terrain"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "If the aircraft approaches the terrain with the L/G down, flaps not in Landing configuration and the speed above 180 kt, the following alert is triggered",
+    "answer": "TOO LOW TERRAIN audio indicator and TOO LOW TERRAIN visual indicator on the PFD",
+    "wrong_answers": [
+      "TOO LOW TERRAIN visual indicator on the PFD and PULL UP audio indicator",
+      "TOO LOW TERRAIN audio indicator and TERRAIN visual indicator on the PFD ",
+      "None of the above"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "Manual validation of erroneous SQWK code results",
+    "answer": "The previous code to appear (instead of erroneous SQWK code)",
+    "wrong_answers": [
+      "The erroneous SQWK code appears again and crew must clear the code first ",
+      "Temporary loss of previous SQWK code, the \u201cSQUAWK CODE NOT VALID\u201d\nmessage appears on RMP",
+      "The newly inserted digit will replace the amber erroneous digit as the crew types the numbers in"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "The weather radar is turned off",
+    "answer": "Automatically, when the aircraft is on the ground and the Flaps position changed from not retracted to retracted",
+    "wrong_answers": [
+      "Automatically and 30 sec after landing",
+      "Automatically after landing either below 60 kts or when Taxi camera is selected by the crew",
+      "Automatically after landing when PF disarms ground spoilers "
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "Which WXR function enables crew to analyze the weather at a selected altitude ",
+    "answer": "MANUAL ELEVATION AND TILT MODE",
+    "wrong_answers": [
+      "MANUAL AZIMUT (AZIM) MODE",
+      "MANUAL GAIN MODE",
+      "TUBULENCE DETECTION (TURB) FUNTION "
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "The SURV SYS includes two identical surveillance systems",
+    "answer": "In the case of electrical emergency configuration, the flight crew must switch on SYS 2 AND On the ground, SYS 1(2) is automatically selected, as the master Aircraft Environment surveillance Unit (AESU) if the flight number is the FMS is an odd (even) number. It enables the detection of hidden failures.",
+    "wrong_answers": [
+      "In the case of electrical emergency configuration, the flight crew must switch on SYS 1",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "The GROUND MAPPING FUNCTION colour coded to represent",
+    "answer": "Green for Terrain",
+    "wrong_answers": [
+      "Black for Terrain",
+      "Yellow for Terrain",
+      "Green for Water"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "Why should the flight crew select SURV SEL BELOW before initiation of descent",
+    "answer": "To display possible treats below the aircraft flight path",
+    "wrong_answers": [
+      "To engage managed flight modes",
+      "To inhibit TA/RA",
+      "To inhibit proximate and other traffic"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "What are the pilot flying actions if for any reason during an RA the aircraft vertical speed does not reach the green area of the vertical speed scale",
+    "answer": "The PF should disconnect the AP and override the FD orders",
+    "wrong_answers": [
+      "The PF should not disconnect the AP",
+      "The PF should turn in the opposite direction of the traffic",
+      "Try to establish visual contact and maintain own separation"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "Which sentence is true should the TAWS trigger \u2018TERRAIN AHEAD, PULL UP\u201d or \u201cOBSTACLE AHEAD, PULL UP\u201d alerts",
+    "answer": "A and B are true",
+    "wrong_answers": [
+      "The flight crew can initiate a turning manoeuvre while climbing",
+      "Aircraft achieve the best climb performance when wings are as level as possible",
+      "None of the options are correct"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "ON MFD SURV page, the \u201cTRAFFIC INFORMATION WINDOW\u201d appears when",
+    "answer": " When the flight crew selects a traffic, the SURV TRAFFIC page displays the traffic information window",
+    "wrong_answers": [
+      "The bearing value is not available",
+      "The flight crew deselects TRFC on EFIS CP and intruder is ADS-B equipped",
+      "Intruder is within RA envelope and equipped with ADS-B"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "When can a SURV TWAS be considered cautionary",
+    "answer": "During daylight VMC conditions with terrain and obstacles clearly In sight",
+    "wrong_answers": [
+      "At night and VMC conditions",
+      "Only within the MSA",
+      "Only within 15 NM of the airfield"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "Can the flight crew perform a manoeuvre based on TA alone",
+    "answer": "Do not perform a manoeuvre based on a TA alone",
+    "wrong_answers": [
+      "Yes, only if traffic is in sight",
+      "Yes, if in IMC conditions",
+      "Yes, only in a visual circuit"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "Is TCAS available if backup altitude is automatically selected",
+    "answer": "No",
+    "wrong_answers": [
+      "Yes but only in TA ONLY mode ",
+      "Yes but Intruders relative altitudes will not be displayed ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "The TURB detection function scans",
+    "answer": "+- 60 degrees in azimuth, between 0 ft to 60000 ft and up to 60 NM in front of the aircraft ",
+    "wrong_answers": [
+      "+- 90 degrees in azimuth, 4000 ft above and below the aircraft altitude and up to 80 NM in front of the aircraft ",
+      "+- 80 degrees in azimuth, +- 15 degrees in tilt, and up to 80 NM in front of the aircraft ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "When are RAs changed to Tas",
+    "answer": "Below 1100 ft AGL in climb and 900 ft AGL ft in descent ",
+    "wrong_answers": [
+      "Below 1100 ft AGL ",
+      "Below 900 ft AGL in climb and 1100 ft AGL in descent ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "The WXR antenna scans",
+    "answer": "+- 80 degrees in azimuth, +- 15 degrees tilt and up to 320 NM in front of aircraft",
+    "wrong_answers": [
+      "+- 60 degrees in azimuth, +- 30 degrees tilt and up to 320 NM in front of aircraft",
+      "+- 90 degrees in azimuth, +- 15 degrees tilt and up to 640 NM in front of aircraft",
+      "-"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "What is the detection area of the weather ahead function",
+    "answer": "2 NM each side of current track, 4000 ft above and below the current track, 3 mins ahead of the aircraft.",
+    "wrong_answers": [
+      "3 NM each side of current track, +- 15 degrees tilt and 2 min ahead of aircraft",
+      "2 NM each side of current track, 4000 ft above and below the current track",
+      "-"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "When is the WXR automatically activated",
+    "answer": "When engine takeoff power thrust is applied ",
+    "wrong_answers": [
+      "When the flight crew selects DEFAULT SETTING function",
+      "After first engine start",
+      "-"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "When is the TA ONLY mode automatically selected",
+    "answer": "Windshear, Stall, TAWS, Engine Failure",
+    "wrong_answers": [
+      "Windshear, Stall, TAWS",
+      "Windshear, Stall, TAWS, Emergency Descent",
+      "-"
+    ]
+  },
+  {
+    "subjects": "SURVEILLANCE",
+    "multi_choice": true,
+    "question": "What is the ON PATH envelope of the WXR system during climb",
+    "answer": "4000 ft above the expected flight path to 4000 ft below the half of the expected flight path angle. High altitude, lower boundary is 25000 ft around convective weather ",
+    "wrong_answers": [
+      "4000 ft above to 4000 ft below the expected flight path. High altitude, lower boundary is 25000 ft around convective weather ",
+      "4000 ft above the half of the expected flight path angle to 4000 ft below expected flight path. High altitude, lower boundary is 25000 ft around convective weather ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "VENTILATION",
+    "multi_choice": false,
+    "question": "What is the function of the recirculation fans",
+    "answer": "Recirculate cabin air to the mixer unit ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "VENTILATION",
+    "multi_choice": false,
+    "question": "When does the overboard valve open",
+    "answer": "Automatically on ground with engines not running, manually in flight in case of failure in the avionics ventilation when AVNCS EXTRACT pb-sw is set to OVRD ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "VENTILATION",
+    "multi_choice": false,
+    "question": "How is the avionics system additionally cooled if the blowing fans cannot correctly cool the avionics bay",
+    "answer": "Backup valve of the affected circuit automatically opens and enables air from the air conditioning system to cool the avionics systems ",
+    "wrong_answers": [
+      "-",
+      "-",
+      "-"
+    ]
+  },
+  {
+    "subjects": "VENTILATION",
+    "multi_choice": true,
+    "question": "How are the pack bays ventilated",
+    "answer": "On ground, two blowing fans ventilate both pack bay areas and are pneumatically operated. In flight, external air flows into each pack bay area, through an air inlet ",
+    "wrong_answers": [
+      "On ground, HP ground air units provide ventilation. In flight, external air flows into each pack bay area, through an air inlet ",
+      "On ground, two blowing fans ventilate both pack areas and are electrically operated. In flight, air flows through the ram air inlet doors and ventilates the pack bay area ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "VENTILATION",
+    "multi_choice": true,
+    "question": "In flight, what happens when the AVNCS EXTRACT pb-sw is set to OVRD",
+    "answer": "The overboard valve partially opens and air is extracted and discharged through the overboard and inboard valve. Inboard valve remains open only if extract fans are running ",
+    "wrong_answers": [
+      "The overboard valve fully opens and air is extracted and discharged through the overboard \nvalve and inboard valve ",
+      "The inboard valve closes and the overboard valve fully opens and air is extracted and discharged through the overboard valve ",
+      "-"
+    ]
+  },
+  {
+    "subjects": "WATER WASTE",
+    "multi_choice": true,
+    "question": "Where are the potable water tanks located",
+    "answer": "Aft section of the aircraft near the pressure bulkhead ",
+    "wrong_answers": [
+      "Middle section of the aircraft, just aft of center fuel tank",
+      "FWD section of the aircraft, just forward of center fuel tank",
+      "-"
+    ]
+  },
+  {
+    "subjects": "WATER WASTE",
+    "multi_choice": true,
+    "question": "How is waste water discharged",
+    "answer": "Overboard via two heated drain masts ",
+    "wrong_answers": [
+      "Stored in the waste storage tanks and serviced by ground crew.",
+      "Via two water pumps",
+      "-"
+    ]
+  }
+]

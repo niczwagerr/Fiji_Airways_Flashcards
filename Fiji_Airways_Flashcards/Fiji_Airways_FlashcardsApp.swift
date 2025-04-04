@@ -11,7 +11,7 @@ import SwiftUI
 struct Fiji_Airways_FlashcardsApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            HomeView()
         }
     }
 }
