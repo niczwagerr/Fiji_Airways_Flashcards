@@ -3,7 +3,6 @@ import SwiftUI
 struct HomeView: View {
     @StateObject private var viewModel = QuizViewModel()
     @State private var showingSubjectPicker = false
-    @State private var useSpacedRepetition = true
     
     private let questionCounts = [5, 10, 20, 30, 50]
     
@@ -82,27 +81,6 @@ struct HomeView: View {
                             .pickerStyle(SegmentedPickerStyle())
                             .frame(maxWidth: .infinity)
                         }
-                        
-                        // Spaced repetition toggle
-                        VStack(alignment: .leading, spacing: 10) {
-                            HStack {
-                                Text("Spaced Repetition")
-                                    .font(.system(size: 16, weight: .semibold))
-                                    .foregroundColor(Color(hex: "555555"))
-                                
-                                Button(action: {
-                                    // Show a tooltip or explanation
-                                }) {
-                                    Image(systemName: "info.circle")
-                                        .font(.system(size: 14))
-                                        .foregroundColor(Color(hex: "0066B3"))
-                                }
-                            }
-                            
-                            Toggle("", isOn: $useSpacedRepetition)
-                                .toggleStyle(SwitchToggleStyle(tint: Color(hex: "0066B3")))
-                                .padding(.trailing)
-                        }
                     }
                     .padding(24)
                     .background(Color.white)
@@ -114,7 +92,7 @@ struct HomeView: View {
                     
                     // Start button
                     Button(action: {
-                        viewModel.startQuiz(withSpacedRepetition: useSpacedRepetition)
+                        viewModel.startQuiz(withSpacedRepetition: true)
                     }) {
                         Text("Start Quiz")
                             .font(.system(size: 18, weight: .bold, design: .rounded))
